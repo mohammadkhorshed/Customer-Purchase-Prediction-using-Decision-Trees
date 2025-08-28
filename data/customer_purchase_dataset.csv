@@ -1,0 +1,2001 @@
+Age_Group,Gender,Income_Level,Car_Type,Marital_Status,Has_Children,Education,Credit_Score_Category,Purchased
+46-60,Female,Medium,Sedan,Single,Yes,Bachelor,Good,No
+60+,Female,Medium,Truck,Divorced,Yes,Bachelor,Good,No
+36-45,Male,Medium,Hatchback,Married,Yes,Bachelor,Good,No
+60+,Male,High,Truck,Single,Yes,High School,Excellent,No
+60+,Female,Medium,Truck,Married,No,Bachelor,Good,No
+26-35,Female,High,SUV,Single,No,Bachelor,Good,Yes
+36-45,Other,Medium,SUV,Single,No,Bachelor,Fair,No
+36-45,Male,Medium,Hatchback,Divorced,Yes,Bachelor,Fair,No
+36-45,Female,Medium,Convertible,Married,No,High School,Good,Yes
+60+,Male,Medium,SUV,Married,No,High School,Good,Yes
+46-60,Male,Low,Convertible,Single,Yes,High School,Excellent,No
+36-45,Female,Low,Sedan,Single,Yes,Bachelor,Poor,No
+60+,Female,High,SUV,Divorced,Yes,High School,Fair,No
+26-35,Other,Low,SUV,Single,Yes,Bachelor,Good,Yes
+46-60,Male,Medium,Hatchback,Single,Yes,Bachelor,Excellent,Yes
+26-35,Male,Medium,Convertible,Married,No,Bachelor,Excellent,No
+46-60,Female,Medium,SUV,Married,Yes,Bachelor,Fair,Yes
+60+,Female,Medium,SUV,Married,No,High School,Poor,Yes
+18-25,Male,Low,Hatchback,Single,Yes,Bachelor,Fair,Yes
+46-60,Male,Medium,Hatchback,Single,Yes,PhD,Fair,Yes
+26-35,Male,Medium,Convertible,Single,No,Bachelor,Excellent,No
+60+,Female,Medium,Sedan,Divorced,No,Master,Fair,No
+46-60,Male,Low,Sedan,Single,Yes,Master,Fair,Yes
+18-25,Male,Medium,Truck,Married,No,Bachelor,Fair,Yes
+18-25,Male,Low,SUV,Married,No,High School,Fair,No
+36-45,Male,Low,Convertible,Married,Yes,Bachelor,Excellent,No
+36-45,Male,Low,SUV,Married,Yes,High School,Poor,No
+26-35,Female,Low,Convertible,Single,No,Bachelor,Fair,No
+46-60,Male,High,Convertible,Single,Yes,Master,Excellent,Yes
+46-60,Female,Low,Convertible,Married,Yes,Master,Poor,No
+36-45,Male,High,SUV,Single,Yes,Bachelor,Good,Yes
+46-60,Female,High,Hatchback,Married,Yes,Bachelor,Fair,No
+46-60,Female,Medium,SUV,Married,No,Bachelor,Good,No
+18-25,Female,Low,Convertible,Married,Yes,Master,Poor,No
+36-45,Female,Medium,Truck,Single,No,Master,Fair,Yes
+60+,Male,Medium,Sedan,Divorced,Yes,PhD,Good,Yes
+36-45,Male,Medium,Convertible,Single,Yes,High School,Fair,Yes
+60+,Female,Low,Truck,Married,Yes,Bachelor,Good,No
+18-25,Other,Medium,Hatchback,Married,No,High School,Fair,Yes
+26-35,Female,High,Convertible,Married,No,High School,Good,Yes
+46-60,Female,Medium,Truck,Married,Yes,PhD,Excellent,Yes
+18-25,Female,Low,Convertible,Divorced,Yes,PhD,Poor,No
+46-60,Male,Medium,SUV,Divorced,No,High School,Fair,No
+26-35,Male,Low,Truck,Married,No,High School,Excellent,Yes
+26-35,Female,Low,SUV,Single,Yes,High School,Good,No
+18-25,Female,High,SUV,Married,No,Master,Poor,Yes
+26-35,Male,Low,Truck,Married,No,High School,Fair,No
+60+,Female,Low,Sedan,Single,Yes,High School,Fair,Yes
+26-35,Male,Low,Truck,Single,Yes,High School,Poor,No
+46-60,Female,High,Sedan,Single,Yes,Bachelor,Excellent,Yes
+46-60,Male,Medium,Convertible,Single,No,PhD,Good,No
+46-60,Male,Medium,Convertible,Married,No,High School,Good,Yes
+46-60,Female,Medium,Truck,Divorced,Yes,Bachelor,Fair,Yes
+60+,Male,Low,Convertible,Married,Yes,High School,Poor,Yes
+36-45,Female,Medium,Hatchback,Married,Yes,Bachelor,Excellent,Yes
+18-25,Female,Medium,SUV,Divorced,No,Bachelor,Poor,No
+46-60,Female,Low,SUV,Single,Yes,High School,Fair,No
+26-35,Male,Medium,Sedan,Married,Yes,High School,Fair,No
+46-60,Male,High,Convertible,Married,Yes,Master,Good,Yes
+26-35,Male,Low,Sedan,Married,Yes,High School,Fair,No
+26-35,Other,Low,SUV,Single,Yes,Bachelor,Fair,No
+46-60,Female,Low,SUV,Married,Yes,Bachelor,Excellent,No
+60+,Female,Low,Convertible,Single,Yes,High School,Good,Yes
+26-35,Female,High,Hatchback,Married,No,Bachelor,Poor,No
+26-35,Female,Medium,Hatchback,Single,Yes,Master,Good,Yes
+46-60,Female,Medium,Convertible,Married,Yes,Bachelor,Fair,No
+26-35,Male,Medium,Convertible,Single,No,High School,Fair,No
+26-35,Female,Low,Sedan,Single,Yes,Bachelor,Good,No
+46-60,Male,Medium,Convertible,Married,No,Bachelor,Fair,No
+46-60,Female,Medium,Hatchback,Single,Yes,Bachelor,Fair,No
+18-25,Female,Medium,Convertible,Married,Yes,Bachelor,Good,No
+60+,Female,High,Sedan,Divorced,Yes,High School,Excellent,No
+60+,Male,Medium,Sedan,Married,Yes,Bachelor,Good,No
+26-35,Male,Medium,Sedan,Single,No,Bachelor,Poor,No
+60+,Male,High,Sedan,Married,Yes,Bachelor,Fair,No
+26-35,Male,Low,Truck,Married,Yes,Bachelor,Fair,No
+18-25,Male,Low,Convertible,Married,Yes,High School,Fair,No
+46-60,Female,Low,SUV,Single,Yes,Bachelor,Fair,No
+46-60,Female,Medium,Convertible,Married,Yes,PhD,Good,No
+46-60,Male,Medium,Truck,Married,Yes,Bachelor,Poor,No
+60+,Male,Medium,Sedan,Single,Yes,Bachelor,Fair,No
+18-25,Male,High,Truck,Single,No,Bachelor,Good,No
+60+,Female,Medium,Hatchback,Married,Yes,PhD,Fair,Yes
+60+,Female,Medium,Hatchback,Married,No,PhD,Excellent,No
+18-25,Female,Low,Convertible,Divorced,No,Bachelor,Fair,No
+18-25,Female,Low,Convertible,Married,Yes,High School,Excellent,No
+18-25,Other,Medium,SUV,Single,No,PhD,Excellent,Yes
+18-25,Female,Medium,SUV,Single,No,Bachelor,Excellent,No
+46-60,Male,High,Hatchback,Divorced,Yes,Bachelor,Poor,No
+36-45,Female,Low,Sedan,Divorced,No,Master,Excellent,No
+36-45,Male,Low,Truck,Divorced,Yes,Bachelor,Poor,No
+18-25,Female,Medium,SUV,Married,Yes,High School,Poor,No
+36-45,Male,Low,SUV,Single,No,Master,Fair,No
+36-45,Female,Low,Sedan,Married,Yes,Bachelor,Poor,No
+18-25,Female,Medium,Sedan,Married,Yes,Bachelor,Poor,No
+36-45,Female,Low,Convertible,Single,Yes,High School,Fair,No
+60+,Female,Medium,Truck,Married,No,Bachelor,Fair,Yes
+26-35,Male,Low,Sedan,Single,No,High School,Good,No
+26-35,Male,Low,SUV,Single,No,Bachelor,Poor,No
+18-25,Male,Medium,SUV,Married,No,Bachelor,Good,No
+46-60,Male,High,Hatchback,Married,Yes,Master,Excellent,No
+18-25,Female,Medium,Sedan,Married,Yes,Bachelor,Fair,No
+46-60,Male,Medium,Convertible,Single,No,Master,Good,Yes
+26-35,Other,Low,Truck,Single,No,Master,Excellent,Yes
+18-25,Female,Medium,Convertible,Single,Yes,Bachelor,Poor,No
+60+,Female,Low,SUV,Single,Yes,High School,Fair,No
+36-45,Male,Medium,Convertible,Single,No,Master,Excellent,No
+46-60,Female,Medium,SUV,Married,No,Bachelor,Excellent,No
+36-45,Female,High,SUV,Married,No,High School,Good,Yes
+36-45,Female,Medium,SUV,Married,Yes,High School,Poor,No
+18-25,Female,Low,SUV,Divorced,No,Master,Excellent,No
+36-45,Female,Low,SUV,Married,No,High School,Poor,Yes
+60+,Male,High,Hatchback,Single,Yes,High School,Fair,No
+36-45,Female,Medium,Convertible,Single,No,Bachelor,Fair,No
+18-25,Male,Medium,Hatchback,Married,No,Master,Fair,Yes
+60+,Male,Low,Hatchback,Married,No,Bachelor,Good,No
+26-35,Male,Medium,Sedan,Married,No,High School,Excellent,Yes
+36-45,Male,Low,Sedan,Married,No,High School,Good,Yes
+18-25,Male,High,Sedan,Divorced,No,Bachelor,Poor,No
+26-35,Male,Medium,Truck,Divorced,Yes,High School,Good,No
+26-35,Other,High,Sedan,Married,No,Bachelor,Good,No
+46-60,Female,Low,Convertible,Single,No,High School,Fair,No
+60+,Other,Medium,Hatchback,Divorced,No,PhD,Excellent,Yes
+36-45,Male,Medium,Convertible,Married,Yes,Bachelor,Excellent,No
+18-25,Male,Medium,Sedan,Single,No,High School,Good,No
+46-60,Female,High,Truck,Married,Yes,Master,Poor,No
+60+,Male,High,Truck,Married,No,High School,Good,No
+46-60,Male,High,Hatchback,Married,No,Bachelor,Excellent,No
+60+,Female,Medium,Convertible,Married,Yes,Master,Fair,No
+60+,Male,Low,SUV,Single,Yes,Bachelor,Excellent,No
+36-45,Female,Low,Convertible,Divorced,Yes,Bachelor,Fair,No
+60+,Female,High,Sedan,Married,Yes,Bachelor,Good,No
+46-60,Male,Low,SUV,Married,No,High School,Good,Yes
+60+,Male,Medium,Truck,Single,Yes,High School,Good,No
+36-45,Female,Medium,Hatchback,Single,Yes,Master,Excellent,Yes
+36-45,Male,Medium,Hatchback,Married,Yes,Bachelor,Fair,No
+46-60,Male,High,Truck,Single,Yes,High School,Fair,No
+26-35,Other,Medium,Sedan,Single,No,High School,Good,No
+26-35,Male,Medium,Truck,Married,Yes,PhD,Poor,No
+60+,Female,Low,Sedan,Married,No,PhD,Fair,No
+18-25,Other,Medium,SUV,Married,Yes,Bachelor,Poor,No
+60+,Male,Low,Truck,Single,Yes,Master,Poor,No
+46-60,Male,Medium,Sedan,Married,Yes,Master,Good,Yes
+46-60,Male,High,SUV,Married,No,High School,Good,Yes
+46-60,Male,High,Truck,Single,No,High School,Poor,No
+46-60,Male,Low,Hatchback,Single,No,High School,Fair,No
+46-60,Female,Medium,Truck,Married,No,Master,Poor,No
+36-45,Male,High,Convertible,Divorced,Yes,Master,Fair,No
+26-35,Female,Low,Truck,Married,No,Bachelor,Poor,No
+46-60,Other,Low,Convertible,Single,No,High School,Fair,No
+18-25,Female,Low,SUV,Single,Yes,Bachelor,Good,Yes
+18-25,Female,Medium,Truck,Married,Yes,Master,Good,No
+18-25,Male,Low,SUV,Single,No,Master,Fair,Yes
+18-25,Female,High,SUV,Married,Yes,High School,Good,Yes
+36-45,Female,Medium,Sedan,Married,No,Bachelor,Excellent,Yes
+18-25,Male,Medium,SUV,Single,Yes,High School,Fair,No
+46-60,Male,Low,SUV,Married,Yes,Master,Fair,Yes
+60+,Female,Medium,Truck,Married,No,Bachelor,Good,No
+18-25,Male,Medium,Truck,Married,No,High School,Fair,No
+36-45,Male,Medium,Hatchback,Single,Yes,Master,Good,No
+36-45,Male,Medium,Sedan,Single,No,High School,Excellent,No
+18-25,Male,Medium,SUV,Married,Yes,Master,Fair,No
+60+,Female,High,Sedan,Married,Yes,High School,Good,Yes
+18-25,Female,High,Convertible,Single,No,Bachelor,Good,Yes
+36-45,Female,Medium,SUV,Single,Yes,PhD,Poor,No
+26-35,Male,Low,Sedan,Single,Yes,Bachelor,Poor,No
+46-60,Male,Low,Hatchback,Divorced,Yes,Bachelor,Excellent,Yes
+36-45,Female,Low,Hatchback,Married,No,Bachelor,Excellent,No
+18-25,Male,Medium,SUV,Divorced,Yes,High School,Good,No
+46-60,Male,Medium,Convertible,Single,No,Bachelor,Excellent,Yes
+18-25,Female,Medium,Hatchback,Divorced,No,Master,Fair,No
+18-25,Male,High,Hatchback,Single,Yes,PhD,Fair,No
+26-35,Female,High,Convertible,Married,No,Master,Fair,Yes
+46-60,Male,High,Sedan,Married,No,Bachelor,Poor,No
+46-60,Male,Medium,Hatchback,Single,Yes,Master,Excellent,No
+26-35,Male,Medium,Truck,Married,Yes,Master,Excellent,No
+36-45,Other,Low,Hatchback,Single,Yes,Bachelor,Excellent,No
+18-25,Female,Low,Sedan,Single,No,High School,Good,Yes
+60+,Female,Low,Sedan,Married,No,Bachelor,Fair,No
+18-25,Female,Medium,SUV,Married,Yes,Master,Poor,No
+18-25,Male,Medium,Truck,Married,Yes,Bachelor,Fair,No
+36-45,Female,High,Sedan,Married,Yes,Master,Good,No
+18-25,Male,Low,Convertible,Married,No,High School,Fair,Yes
+26-35,Female,Medium,Truck,Single,Yes,PhD,Excellent,Yes
+26-35,Male,Medium,Truck,Single,No,Bachelor,Excellent,Yes
+46-60,Female,Low,Convertible,Divorced,Yes,Bachelor,Poor,No
+60+,Male,Medium,Hatchback,Single,No,High School,Poor,Yes
+18-25,Male,Low,Convertible,Married,Yes,High School,Good,Yes
+18-25,Female,Medium,Convertible,Single,No,Master,Fair,No
+36-45,Male,Medium,Hatchback,Married,Yes,PhD,Good,No
+26-35,Male,Low,Hatchback,Married,No,Bachelor,Good,No
+60+,Male,Low,Hatchback,Single,Yes,High School,Fair,Yes
+46-60,Male,Medium,Hatchback,Single,Yes,Bachelor,Fair,No
+26-35,Female,High,Hatchback,Married,Yes,High School,Fair,Yes
+46-60,Female,Medium,Convertible,Single,No,High School,Excellent,No
+36-45,Female,Medium,SUV,Single,Yes,Master,Poor,No
+36-45,Female,Medium,SUV,Married,Yes,PhD,Excellent,No
+18-25,Male,High,Sedan,Single,No,High School,Good,Yes
+60+,Female,High,SUV,Married,No,Bachelor,Good,Yes
+46-60,Male,Medium,SUV,Married,Yes,High School,Poor,No
+26-35,Male,Medium,Convertible,Single,No,High School,Good,No
+36-45,Female,High,Hatchback,Married,Yes,High School,Good,No
+18-25,Male,Medium,Hatchback,Married,No,Bachelor,Good,No
+18-25,Female,Medium,Convertible,Single,No,High School,Good,No
+46-60,Male,Low,SUV,Married,Yes,Bachelor,Good,No
+36-45,Female,High,Convertible,Single,No,High School,Excellent,Yes
+60+,Female,High,Sedan,Single,Yes,High School,Fair,No
+36-45,Female,Low,Hatchback,Single,No,High School,Excellent,No
+46-60,Female,Medium,Truck,Single,No,Master,Poor,Yes
+46-60,Female,Medium,Sedan,Single,No,Master,Excellent,No
+36-45,Male,Low,Sedan,Married,Yes,Master,Excellent,Yes
+46-60,Female,High,Convertible,Married,Yes,Bachelor,Fair,No
+36-45,Male,Low,SUV,Married,Yes,Bachelor,Good,Yes
+26-35,Female,Low,Hatchback,Married,No,Bachelor,Good,No
+36-45,Female,Medium,Truck,Married,No,High School,Poor,No
+36-45,Female,Medium,Sedan,Married,No,Master,Fair,Yes
+46-60,Male,Low,Truck,Married,Yes,Bachelor,Fair,No
+46-60,Male,Medium,SUV,Single,No,Bachelor,Excellent,No
+18-25,Female,Medium,SUV,Married,No,Bachelor,Excellent,No
+18-25,Male,Low,Truck,Single,No,Bachelor,Good,No
+26-35,Male,Low,Hatchback,Single,Yes,PhD,Good,No
+18-25,Male,Medium,SUV,Married,Yes,Bachelor,Good,Yes
+36-45,Female,Low,Truck,Single,No,Bachelor,Fair,No
+46-60,Female,High,Sedan,Single,No,Bachelor,Fair,No
+18-25,Male,High,Truck,Married,Yes,PhD,Good,No
+18-25,Male,High,Truck,Married,No,Bachelor,Excellent,No
+26-35,Male,Low,Convertible,Married,Yes,Bachelor,Good,No
+26-35,Female,High,SUV,Married,No,High School,Good,Yes
+36-45,Female,Medium,Hatchback,Single,Yes,Master,Good,No
+46-60,Male,Medium,Hatchback,Single,Yes,High School,Fair,No
+26-35,Male,Low,Convertible,Married,Yes,Bachelor,Good,No
+18-25,Male,Low,Hatchback,Single,Yes,Master,Fair,Yes
+46-60,Female,Medium,Truck,Married,Yes,PhD,Fair,No
+46-60,Female,Medium,Convertible,Single,No,Bachelor,Good,No
+18-25,Male,Low,Sedan,Married,Yes,Master,Good,No
+26-35,Male,Medium,SUV,Married,Yes,High School,Fair,No
+18-25,Male,Low,SUV,Married,Yes,Master,Good,Yes
+46-60,Other,Medium,SUV,Married,Yes,Bachelor,Good,No
+60+,Male,Medium,Truck,Married,Yes,Bachelor,Good,Yes
+60+,Female,High,Sedan,Single,Yes,Master,Excellent,Yes
+36-45,Female,High,Convertible,Single,No,Master,Fair,No
+18-25,Male,Medium,Convertible,Single,Yes,High School,Excellent,No
+18-25,Male,Medium,SUV,Married,No,Master,Good,No
+36-45,Male,Medium,Sedan,Single,Yes,High School,Good,Yes
+36-45,Female,High,Sedan,Married,Yes,Master,Good,Yes
+36-45,Female,Medium,Sedan,Single,Yes,Bachelor,Fair,No
+46-60,Female,Low,Hatchback,Married,No,High School,Poor,No
+18-25,Female,Low,Hatchback,Married,No,Bachelor,Good,No
+46-60,Male,Medium,SUV,Single,No,Bachelor,Good,Yes
+36-45,Other,Medium,Sedan,Single,Yes,Bachelor,Good,No
+18-25,Female,High,Sedan,Single,No,High School,Fair,No
+46-60,Male,Low,Convertible,Married,Yes,High School,Fair,Yes
+46-60,Other,Medium,Convertible,Married,Yes,Master,Fair,No
+36-45,Female,High,SUV,Single,No,High School,Good,Yes
+18-25,Female,High,Sedan,Married,Yes,Bachelor,Fair,No
+36-45,Female,Medium,SUV,Single,No,Bachelor,Good,Yes
+18-25,Female,Medium,Convertible,Married,Yes,High School,Fair,Yes
+60+,Female,Medium,Convertible,Married,No,Bachelor,Good,No
+26-35,Male,High,Hatchback,Married,No,Bachelor,Poor,Yes
+26-35,Male,Low,SUV,Single,No,Bachelor,Fair,Yes
+26-35,Female,High,SUV,Married,Yes,Bachelor,Good,Yes
+36-45,Male,Medium,Sedan,Married,Yes,Bachelor,Good,No
+60+,Male,Medium,Sedan,Single,No,Bachelor,Fair,Yes
+18-25,Male,Low,Hatchback,Single,Yes,Master,Excellent,No
+46-60,Male,Medium,Truck,Married,No,High School,Fair,Yes
+18-25,Female,Medium,Truck,Married,No,PhD,Fair,No
+46-60,Female,Low,Truck,Married,Yes,Bachelor,Fair,No
+18-25,Male,Medium,SUV,Married,No,Master,Fair,No
+60+,Male,High,SUV,Married,No,Bachelor,Fair,No
+46-60,Male,Medium,Convertible,Single,Yes,Bachelor,Fair,Yes
+36-45,Female,Medium,SUV,Single,Yes,PhD,Good,No
+18-25,Female,Low,SUV,Divorced,Yes,High School,Fair,Yes
+18-25,Male,Medium,SUV,Married,Yes,High School,Good,Yes
+46-60,Female,Low,Hatchback,Married,No,High School,Fair,No
+36-45,Female,Medium,SUV,Married,Yes,PhD,Fair,No
+36-45,Female,High,Sedan,Divorced,No,Bachelor,Poor,No
+60+,Female,Medium,Sedan,Married,Yes,Bachelor,Good,Yes
+36-45,Male,Low,Convertible,Married,No,Master,Good,No
+36-45,Female,Medium,Hatchback,Married,No,Bachelor,Excellent,Yes
+36-45,Male,Medium,Sedan,Single,Yes,Master,Fair,No
+26-35,Female,Medium,Hatchback,Married,Yes,Bachelor,Good,No
+60+,Female,High,Hatchback,Single,No,Master,Good,No
+18-25,Female,High,Convertible,Married,No,High School,Poor,No
+46-60,Female,Medium,Hatchback,Married,Yes,High School,Fair,No
+18-25,Male,Medium,SUV,Married,Yes,Bachelor,Fair,No
+60+,Female,Low,Hatchback,Married,Yes,Bachelor,Good,No
+46-60,Other,Low,Convertible,Single,Yes,Bachelor,Poor,No
+60+,Female,Medium,Convertible,Single,No,Bachelor,Good,No
+36-45,Male,Medium,Convertible,Divorced,No,High School,Good,No
+46-60,Male,Medium,Sedan,Divorced,Yes,Bachelor,Good,No
+36-45,Male,Medium,SUV,Single,No,Bachelor,Fair,Yes
+18-25,Female,Low,Sedan,Divorced,Yes,High School,Good,No
+18-25,Female,Medium,Truck,Married,No,Bachelor,Poor,No
+46-60,Male,Low,SUV,Married,Yes,Bachelor,Poor,No
+46-60,Female,Low,Hatchback,Single,Yes,Bachelor,Good,Yes
+60+,Female,High,Convertible,Divorced,Yes,High School,Fair,Yes
+60+,Female,Low,Truck,Married,Yes,PhD,Fair,No
+36-45,Female,Medium,SUV,Married,No,Bachelor,Fair,No
+46-60,Female,Low,Sedan,Married,No,High School,Fair,No
+18-25,Female,High,Convertible,Married,Yes,Bachelor,Poor,Yes
+60+,Male,Medium,Sedan,Married,No,Master,Fair,No
+60+,Female,Low,SUV,Single,Yes,Bachelor,Good,Yes
+18-25,Female,Medium,SUV,Single,No,Master,Fair,Yes
+60+,Female,Medium,Truck,Single,Yes,High School,Excellent,Yes
+36-45,Female,High,Hatchback,Single,Yes,Master,Fair,No
+46-60,Female,Low,Sedan,Married,Yes,Bachelor,Fair,No
+18-25,Male,High,Truck,Married,No,High School,Good,No
+46-60,Male,High,Convertible,Married,No,Bachelor,Poor,No
+60+,Male,High,Hatchback,Single,Yes,PhD,Excellent,No
+60+,Male,Medium,Truck,Married,Yes,Master,Good,No
+18-25,Female,Medium,Sedan,Single,Yes,Bachelor,Poor,No
+36-45,Other,Medium,SUV,Single,No,High School,Good,No
+26-35,Male,Medium,Convertible,Single,No,Bachelor,Poor,No
+18-25,Male,Medium,Sedan,Married,Yes,High School,Excellent,No
+26-35,Female,Medium,Hatchback,Single,Yes,High School,Excellent,No
+26-35,Male,Medium,Hatchback,Married,No,Bachelor,Good,No
+36-45,Female,Medium,SUV,Single,Yes,Master,Poor,No
+26-35,Female,High,SUV,Married,Yes,Bachelor,Fair,Yes
+26-35,Female,Low,Convertible,Married,Yes,High School,Fair,No
+36-45,Male,High,Convertible,Divorced,Yes,Bachelor,Fair,No
+26-35,Male,Medium,SUV,Married,Yes,PhD,Fair,Yes
+26-35,Female,High,SUV,Divorced,No,Master,Excellent,Yes
+26-35,Female,Medium,Hatchback,Married,Yes,Bachelor,Fair,No
+18-25,Male,Medium,SUV,Married,No,PhD,Good,No
+18-25,Female,High,Truck,Single,Yes,Master,Good,No
+18-25,Male,Low,Sedan,Single,No,High School,Excellent,No
+36-45,Female,High,SUV,Single,No,Bachelor,Poor,No
+60+,Male,Medium,Convertible,Married,No,PhD,Fair,Yes
+26-35,Female,Medium,Truck,Married,Yes,Bachelor,Good,No
+26-35,Male,Medium,Convertible,Married,Yes,High School,Excellent,Yes
+36-45,Male,Medium,Truck,Divorced,Yes,Bachelor,Excellent,Yes
+26-35,Male,Medium,SUV,Married,No,Bachelor,Good,Yes
+18-25,Male,Low,Sedan,Married,Yes,PhD,Fair,Yes
+60+,Female,Low,Convertible,Divorced,No,Bachelor,Good,No
+46-60,Other,Low,Truck,Single,No,Bachelor,Poor,No
+26-35,Male,High,Hatchback,Married,Yes,Master,Good,No
+18-25,Male,High,SUV,Single,No,Bachelor,Good,Yes
+46-60,Female,Medium,Sedan,Married,Yes,High School,Good,No
+60+,Female,Medium,SUV,Single,Yes,PhD,Excellent,No
+46-60,Female,Medium,Hatchback,Married,Yes,Bachelor,Good,No
+18-25,Male,Medium,Sedan,Married,No,Bachelor,Fair,No
+46-60,Male,High,Hatchback,Single,Yes,Bachelor,Poor,No
+36-45,Female,High,SUV,Single,No,High School,Excellent,Yes
+46-60,Male,Medium,Truck,Married,Yes,PhD,Poor,No
+26-35,Female,Medium,SUV,Divorced,Yes,Bachelor,Poor,Yes
+26-35,Male,Low,SUV,Married,No,Bachelor,Fair,No
+36-45,Female,High,SUV,Married,Yes,High School,Good,Yes
+18-25,Male,Low,Convertible,Single,Yes,Bachelor,Poor,No
+26-35,Female,Medium,Hatchback,Married,No,Master,Excellent,No
+60+,Female,Medium,Hatchback,Married,Yes,Master,Excellent,No
+26-35,Female,Medium,Hatchback,Married,Yes,PhD,Excellent,Yes
+26-35,Male,Low,Convertible,Single,Yes,Bachelor,Poor,Yes
+18-25,Female,High,Truck,Married,Yes,Master,Excellent,No
+46-60,Female,Low,SUV,Married,No,Bachelor,Excellent,No
+26-35,Female,Medium,Truck,Divorced,No,Master,Excellent,No
+36-45,Female,Low,Convertible,Divorced,Yes,Master,Good,No
+46-60,Female,Medium,Hatchback,Married,Yes,Bachelor,Good,Yes
+60+,Female,Medium,SUV,Married,Yes,Bachelor,Poor,No
+18-25,Male,Medium,Sedan,Single,No,High School,Excellent,No
+60+,Female,Low,Sedan,Married,Yes,Bachelor,Poor,No
+46-60,Female,Low,Truck,Married,Yes,PhD,Fair,Yes
+46-60,Male,Medium,Hatchback,Single,No,High School,Excellent,No
+46-60,Male,Medium,Sedan,Single,No,High School,Fair,No
+60+,Male,High,Truck,Married,Yes,High School,Poor,Yes
+46-60,Female,Low,Convertible,Single,Yes,Master,Excellent,No
+60+,Female,Medium,Truck,Married,Yes,Bachelor,Excellent,No
+46-60,Female,Low,Truck,Married,Yes,High School,Poor,Yes
+36-45,Female,Low,Truck,Single,No,Bachelor,Excellent,No
+46-60,Male,Medium,SUV,Single,No,Bachelor,Fair,Yes
+60+,Male,Medium,Truck,Married,No,Bachelor,Fair,No
+26-35,Male,Low,Truck,Married,Yes,Master,Fair,No
+46-60,Male,Low,SUV,Single,Yes,Bachelor,Poor,No
+26-35,Male,Low,SUV,Married,Yes,Bachelor,Fair,Yes
+36-45,Male,High,Convertible,Married,Yes,High School,Poor,No
+18-25,Female,High,Hatchback,Married,No,High School,Excellent,No
+36-45,Female,Low,Sedan,Married,Yes,Bachelor,Good,Yes
+46-60,Other,Low,Sedan,Divorced,Yes,Bachelor,Excellent,No
+26-35,Female,High,Truck,Married,Yes,Bachelor,Good,Yes
+26-35,Female,High,Convertible,Single,Yes,High School,Poor,No
+60+,Male,Medium,Truck,Divorced,Yes,High School,Excellent,No
+26-35,Female,Low,Sedan,Married,No,Master,Excellent,No
+60+,Female,Low,SUV,Single,Yes,Bachelor,Fair,No
+18-25,Male,Medium,Hatchback,Married,No,Master,Poor,No
+46-60,Male,Medium,Convertible,Married,Yes,Master,Good,Yes
+60+,Female,Low,SUV,Married,Yes,Bachelor,Good,Yes
+18-25,Male,Medium,Hatchback,Married,No,Master,Excellent,Yes
+26-35,Female,Low,Convertible,Single,Yes,Bachelor,Poor,No
+26-35,Female,Medium,Convertible,Married,No,High School,Poor,No
+18-25,Male,Medium,Sedan,Married,Yes,Bachelor,Good,No
+26-35,Male,Low,SUV,Single,Yes,Bachelor,Good,Yes
+18-25,Male,Medium,Convertible,Married,No,Bachelor,Poor,No
+60+,Male,Medium,Convertible,Married,No,Bachelor,Fair,No
+60+,Male,High,Hatchback,Single,No,Bachelor,Good,No
+18-25,Female,Medium,Sedan,Married,No,High School,Good,No
+60+,Male,Low,Truck,Single,Yes,High School,Fair,No
+60+,Female,Medium,Sedan,Single,No,High School,Fair,No
+60+,Male,Low,Truck,Single,No,High School,Excellent,No
+36-45,Female,High,SUV,Single,Yes,Bachelor,Excellent,Yes
+46-60,Male,Medium,SUV,Married,Yes,Bachelor,Fair,No
+26-35,Male,Medium,Convertible,Single,No,High School,Fair,Yes
+36-45,Female,Low,SUV,Married,Yes,Master,Excellent,Yes
+60+,Female,Medium,Convertible,Single,Yes,Master,Fair,No
+18-25,Male,High,Sedan,Divorced,No,Bachelor,Good,No
+60+,Female,High,SUV,Married,Yes,Master,Good,Yes
+46-60,Male,Low,Sedan,Married,Yes,Bachelor,Fair,No
+60+,Female,Low,Sedan,Single,No,High School,Good,No
+18-25,Male,High,SUV,Married,Yes,PhD,Good,Yes
+46-60,Male,High,Sedan,Single,No,High School,Good,No
+60+,Female,Low,SUV,Divorced,Yes,PhD,Poor,No
+46-60,Female,Medium,SUV,Married,Yes,Bachelor,Excellent,Yes
+26-35,Male,Medium,SUV,Married,Yes,Bachelor,Fair,No
+26-35,Female,High,Truck,Married,No,Bachelor,Good,No
+60+,Female,Low,Sedan,Single,Yes,Bachelor,Excellent,Yes
+46-60,Male,Low,Hatchback,Married,Yes,High School,Fair,No
+18-25,Female,Medium,SUV,Married,Yes,Bachelor,Good,No
+60+,Male,Low,Sedan,Married,Yes,Master,Excellent,Yes
+26-35,Female,Medium,Convertible,Married,Yes,Bachelor,Fair,No
+26-35,Female,Medium,SUV,Single,Yes,High School,Fair,No
+60+,Female,Medium,SUV,Single,Yes,Bachelor,Excellent,Yes
+46-60,Male,Medium,Hatchback,Married,Yes,Master,Poor,Yes
+26-35,Male,Medium,Truck,Married,No,Bachelor,Poor,No
+46-60,Male,Low,Truck,Married,No,Bachelor,Excellent,No
+26-35,Male,Medium,SUV,Divorced,Yes,PhD,Excellent,No
+26-35,Male,High,Sedan,Single,Yes,Bachelor,Excellent,Yes
+36-45,Female,Medium,Convertible,Married,No,Bachelor,Poor,No
+26-35,Male,Low,Convertible,Divorced,No,Master,Poor,No
+18-25,Male,Low,Sedan,Married,Yes,Master,Poor,No
+60+,Female,Low,SUV,Married,No,High School,Good,No
+60+,Male,Medium,Convertible,Single,Yes,High School,Good,Yes
+46-60,Female,Medium,Truck,Single,Yes,Master,Fair,No
+26-35,Male,Medium,Sedan,Married,Yes,High School,Poor,Yes
+18-25,Female,Low,Hatchback,Single,No,PhD,Good,No
+46-60,Male,Low,SUV,Single,Yes,High School,Good,Yes
+36-45,Male,Medium,Sedan,Married,No,Bachelor,Poor,No
+46-60,Female,Medium,Convertible,Single,Yes,High School,Excellent,No
+46-60,Male,Low,SUV,Divorced,Yes,Master,Poor,No
+26-35,Female,Medium,Truck,Married,Yes,Master,Good,No
+36-45,Male,Low,SUV,Married,No,Bachelor,Excellent,No
+46-60,Male,High,SUV,Married,Yes,PhD,Good,Yes
+18-25,Female,High,Truck,Married,Yes,High School,Fair,No
+18-25,Male,Low,Truck,Married,Yes,High School,Fair,No
+60+,Female,Low,SUV,Married,No,Master,Excellent,Yes
+36-45,Other,Medium,Truck,Single,Yes,Master,Fair,Yes
+36-45,Female,Low,Sedan,Married,Yes,Master,Good,No
+60+,Female,Medium,Truck,Married,Yes,Master,Excellent,Yes
+46-60,Male,High,Truck,Married,No,Bachelor,Excellent,No
+36-45,Male,Medium,SUV,Single,No,High School,Good,Yes
+18-25,Male,High,Sedan,Married,No,PhD,Excellent,No
+18-25,Female,Medium,Hatchback,Single,Yes,Bachelor,Excellent,No
+26-35,Other,Low,Hatchback,Divorced,Yes,Bachelor,Fair,Yes
+36-45,Male,Medium,Convertible,Divorced,No,Bachelor,Fair,Yes
+46-60,Female,Medium,Truck,Single,Yes,High School,Poor,No
+60+,Male,Medium,Truck,Married,Yes,Master,Poor,No
+60+,Female,Low,Sedan,Single,Yes,High School,Excellent,No
+46-60,Male,Low,Hatchback,Married,No,Master,Good,No
+26-35,Other,High,Convertible,Single,Yes,Bachelor,Excellent,Yes
+60+,Female,Low,Sedan,Married,No,Bachelor,Good,Yes
+36-45,Male,High,Truck,Single,No,Bachelor,Good,Yes
+26-35,Male,High,Hatchback,Single,Yes,High School,Good,Yes
+36-45,Male,Medium,Convertible,Married,Yes,Bachelor,Poor,No
+18-25,Male,Medium,SUV,Single,No,Bachelor,Excellent,No
+26-35,Male,Medium,Hatchback,Married,No,Bachelor,Fair,Yes
+60+,Female,High,Convertible,Single,No,High School,Good,Yes
+26-35,Female,Low,Sedan,Married,No,High School,Poor,No
+26-35,Female,Medium,SUV,Married,Yes,High School,Excellent,No
+26-35,Male,Medium,Convertible,Married,No,Bachelor,Excellent,No
+26-35,Female,Medium,Convertible,Married,Yes,High School,Good,No
+36-45,Female,Medium,Truck,Divorced,No,Master,Good,No
+18-25,Male,Medium,Hatchback,Single,No,Bachelor,Good,No
+46-60,Female,Medium,Truck,Single,No,Master,Fair,No
+26-35,Female,High,SUV,Married,No,Master,Fair,No
+60+,Male,Low,Convertible,Married,No,High School,Good,No
+26-35,Male,High,Truck,Divorced,Yes,Master,Poor,No
+60+,Female,Medium,Hatchback,Single,No,Bachelor,Fair,No
+36-45,Male,High,SUV,Single,Yes,Master,Fair,No
+60+,Female,Medium,Sedan,Single,Yes,Master,Fair,No
+46-60,Female,Medium,Truck,Married,Yes,High School,Poor,Yes
+18-25,Female,Low,SUV,Married,Yes,Bachelor,Fair,No
+60+,Male,High,Sedan,Single,No,Bachelor,Fair,No
+60+,Male,Low,Truck,Married,No,Bachelor,Fair,No
+18-25,Female,High,SUV,Married,Yes,High School,Good,Yes
+46-60,Female,High,SUV,Married,Yes,High School,Excellent,Yes
+26-35,Male,Low,Truck,Single,Yes,Bachelor,Poor,No
+60+,Female,Low,SUV,Married,No,Bachelor,Excellent,No
+18-25,Female,Medium,Convertible,Married,Yes,PhD,Fair,No
+36-45,Male,Low,Truck,Married,No,Master,Good,No
+18-25,Male,High,SUV,Married,No,Bachelor,Good,Yes
+36-45,Female,Low,Sedan,Single,Yes,High School,Good,No
+46-60,Male,Low,Sedan,Single,No,High School,Good,No
+26-35,Male,High,Convertible,Married,No,Bachelor,Fair,No
+18-25,Male,Medium,Truck,Single,No,Master,Fair,Yes
+60+,Male,High,SUV,Married,Yes,Bachelor,Excellent,Yes
+46-60,Female,Medium,SUV,Married,Yes,Bachelor,Fair,No
+18-25,Female,Medium,Sedan,Married,No,Master,Poor,Yes
+60+,Male,Medium,Convertible,Single,Yes,PhD,Poor,No
+18-25,Female,Medium,Sedan,Single,No,High School,Fair,Yes
+36-45,Female,Medium,Sedan,Married,Yes,High School,Good,No
+18-25,Female,Medium,Convertible,Single,Yes,Bachelor,Good,Yes
+18-25,Male,Medium,Truck,Married,Yes,Bachelor,Fair,No
+18-25,Male,Low,SUV,Married,No,PhD,Poor,No
+46-60,Other,Medium,Truck,Married,Yes,High School,Good,Yes
+18-25,Female,Low,Hatchback,Married,No,High School,Good,No
+60+,Male,Medium,Hatchback,Single,Yes,Master,Excellent,Yes
+36-45,Male,Low,Hatchback,Single,No,Master,Excellent,No
+36-45,Male,Medium,Convertible,Divorced,No,PhD,Excellent,No
+18-25,Female,Medium,Sedan,Divorced,Yes,Bachelor,Good,No
+46-60,Female,Low,Truck,Married,Yes,Bachelor,Good,No
+46-60,Female,Low,SUV,Divorced,Yes,High School,Poor,No
+60+,Male,Low,Hatchback,Married,Yes,High School,Good,Yes
+18-25,Female,Medium,Truck,Single,No,Bachelor,Poor,No
+36-45,Female,High,Hatchback,Single,Yes,Bachelor,Excellent,Yes
+46-60,Male,Low,Hatchback,Divorced,Yes,High School,Fair,No
+18-25,Female,Medium,SUV,Single,No,Master,Good,No
+46-60,Other,Medium,Convertible,Married,Yes,High School,Poor,Yes
+46-60,Male,Medium,Sedan,Married,No,Master,Good,Yes
+36-45,Female,High,Convertible,Married,Yes,High School,Fair,Yes
+26-35,Male,Medium,Truck,Married,No,Master,Fair,No
+60+,Female,Medium,Convertible,Single,Yes,High School,Fair,No
+60+,Female,Low,Truck,Single,Yes,Master,Poor,No
+36-45,Female,Low,Truck,Married,Yes,High School,Fair,No
+46-60,Female,Low,Sedan,Married,Yes,Bachelor,Fair,Yes
+18-25,Male,Low,SUV,Married,Yes,Master,Excellent,No
+46-60,Female,Medium,Sedan,Married,Yes,High School,Fair,No
+36-45,Female,Medium,Convertible,Single,No,High School,Fair,No
+60+,Male,Medium,Truck,Married,Yes,Master,Excellent,No
+46-60,Female,Low,Hatchback,Married,No,Master,Good,No
+60+,Female,Low,Hatchback,Single,Yes,High School,Fair,Yes
+18-25,Male,Medium,Truck,Married,No,High School,Fair,No
+60+,Female,High,Sedan,Married,Yes,High School,Excellent,No
+60+,Female,Low,SUV,Married,Yes,High School,Fair,No
+26-35,Male,High,Sedan,Single,Yes,PhD,Fair,No
+26-35,Other,Medium,Truck,Married,Yes,Bachelor,Good,No
+26-35,Male,Medium,Truck,Single,Yes,Bachelor,Poor,No
+60+,Male,Medium,SUV,Single,Yes,PhD,Excellent,No
+36-45,Male,Low,Convertible,Married,No,Bachelor,Fair,No
+60+,Female,Low,Convertible,Married,No,Bachelor,Good,No
+36-45,Female,Medium,SUV,Married,Yes,Bachelor,Good,No
+36-45,Male,Medium,Convertible,Single,No,Bachelor,Fair,Yes
+26-35,Male,High,Hatchback,Single,No,Bachelor,Excellent,No
+46-60,Female,Medium,Convertible,Married,No,High School,Excellent,Yes
+18-25,Male,Low,Convertible,Single,Yes,High School,Fair,Yes
+26-35,Female,Medium,Convertible,Single,Yes,High School,Excellent,No
+26-35,Female,Low,Hatchback,Single,Yes,High School,Poor,Yes
+46-60,Female,Medium,Convertible,Married,No,Bachelor,Excellent,No
+18-25,Other,Medium,Hatchback,Single,Yes,Bachelor,Fair,No
+60+,Male,High,SUV,Married,Yes,Bachelor,Fair,No
+60+,Other,Medium,Sedan,Single,Yes,High School,Fair,Yes
+26-35,Female,Medium,SUV,Single,Yes,Bachelor,Fair,Yes
+18-25,Female,Medium,Sedan,Married,No,High School,Fair,No
+26-35,Male,High,SUV,Single,Yes,Bachelor,Excellent,Yes
+36-45,Female,Low,Sedan,Married,No,Master,Excellent,No
+26-35,Male,Low,Sedan,Single,No,High School,Poor,No
+26-35,Male,Low,Truck,Married,Yes,Master,Poor,Yes
+60+,Male,Low,Sedan,Single,Yes,Master,Excellent,No
+60+,Female,Medium,Sedan,Single,No,High School,Fair,Yes
+60+,Female,Medium,Truck,Married,Yes,High School,Poor,No
+36-45,Female,Medium,Convertible,Divorced,Yes,PhD,Good,No
+60+,Female,Low,Convertible,Single,Yes,High School,Fair,Yes
+18-25,Male,Medium,Truck,Married,No,Master,Fair,No
+46-60,Female,Medium,Hatchback,Married,No,Bachelor,Good,Yes
+18-25,Male,Medium,Sedan,Married,Yes,High School,Good,No
+18-25,Female,Medium,Sedan,Married,Yes,High School,Poor,No
+60+,Female,Medium,Truck,Single,Yes,Bachelor,Excellent,Yes
+46-60,Female,Low,Truck,Divorced,No,Bachelor,Good,No
+46-60,Female,Low,Hatchback,Single,Yes,Bachelor,Fair,No
+46-60,Male,High,Convertible,Single,No,PhD,Fair,No
+36-45,Male,High,SUV,Married,Yes,Master,Poor,Yes
+60+,Female,Medium,Convertible,Married,No,High School,Fair,No
+46-60,Male,Low,Sedan,Married,Yes,Master,Poor,Yes
+36-45,Male,Medium,Truck,Married,No,Master,Fair,No
+26-35,Female,Medium,Hatchback,Married,Yes,PhD,Poor,No
+26-35,Female,Medium,Convertible,Single,No,Bachelor,Good,Yes
+36-45,Male,Low,Hatchback,Married,Yes,Master,Good,Yes
+36-45,Male,Low,Convertible,Single,Yes,Bachelor,Good,No
+60+,Female,Medium,Sedan,Married,Yes,Bachelor,Good,No
+60+,Female,Medium,SUV,Divorced,No,PhD,Excellent,No
+26-35,Male,Low,Hatchback,Single,No,High School,Good,Yes
+46-60,Male,Low,Hatchback,Married,Yes,High School,Fair,No
+26-35,Male,Medium,SUV,Single,No,Master,Fair,Yes
+46-60,Male,High,Hatchback,Single,No,High School,Excellent,No
+46-60,Male,High,Hatchback,Divorced,No,Master,Poor,No
+60+,Female,Medium,Convertible,Single,No,Master,Fair,No
+18-25,Female,Medium,Convertible,Married,No,High School,Good,Yes
+18-25,Female,Low,SUV,Married,Yes,Bachelor,Good,No
+36-45,Male,Medium,Sedan,Married,No,Master,Good,No
+60+,Female,Medium,Hatchback,Married,No,Bachelor,Fair,No
+46-60,Male,Medium,Sedan,Married,No,PhD,Poor,Yes
+18-25,Other,Medium,SUV,Married,Yes,Master,Excellent,No
+46-60,Female,Low,SUV,Divorced,Yes,Bachelor,Poor,No
+18-25,Male,Low,Convertible,Married,Yes,High School,Poor,Yes
+18-25,Female,Medium,Hatchback,Married,No,PhD,Fair,No
+18-25,Male,Low,Truck,Single,No,Bachelor,Excellent,Yes
+60+,Female,Low,SUV,Single,Yes,High School,Good,No
+26-35,Male,High,Hatchback,Married,No,Master,Excellent,No
+46-60,Male,Medium,Sedan,Divorced,No,Master,Poor,No
+60+,Female,Medium,Convertible,Married,No,Bachelor,Fair,No
+60+,Male,High,Sedan,Divorced,Yes,Bachelor,Fair,No
+60+,Female,High,SUV,Married,No,Bachelor,Excellent,Yes
+60+,Male,Medium,SUV,Married,Yes,Master,Fair,Yes
+60+,Female,High,Sedan,Married,No,Master,Poor,No
+36-45,Female,Medium,SUV,Married,Yes,PhD,Good,No
+46-60,Female,Medium,Hatchback,Single,Yes,Bachelor,Fair,No
+60+,Male,Medium,SUV,Married,No,Master,Good,Yes
+46-60,Male,Medium,Convertible,Married,Yes,PhD,Excellent,No
+36-45,Male,Medium,Hatchback,Single,Yes,High School,Fair,No
+36-45,Male,Medium,Truck,Divorced,No,High School,Fair,No
+46-60,Female,Low,SUV,Single,Yes,Master,Fair,No
+18-25,Female,Medium,SUV,Married,Yes,High School,Fair,Yes
+26-35,Female,Low,Convertible,Married,Yes,High School,Poor,No
+18-25,Female,Medium,Convertible,Married,Yes,High School,Good,No
+18-25,Female,Medium,Sedan,Married,Yes,Bachelor,Fair,Yes
+18-25,Female,Medium,Sedan,Divorced,Yes,High School,Excellent,Yes
+60+,Male,Medium,Sedan,Married,No,Bachelor,Fair,No
+36-45,Female,High,Convertible,Single,Yes,PhD,Fair,No
+18-25,Female,Medium,Sedan,Married,Yes,Master,Fair,No
+36-45,Female,Medium,Sedan,Single,Yes,Master,Good,No
+46-60,Male,Medium,Truck,Single,Yes,High School,Fair,Yes
+26-35,Male,Low,Sedan,Single,No,Master,Excellent,No
+46-60,Male,Low,SUV,Married,No,Master,Good,No
+46-60,Female,Low,Convertible,Married,Yes,Bachelor,Excellent,No
+60+,Female,Medium,Hatchback,Married,Yes,High School,Good,No
+26-35,Male,Medium,Truck,Single,Yes,Bachelor,Poor,No
+46-60,Other,High,Convertible,Single,No,Master,Excellent,Yes
+46-60,Male,Low,Convertible,Divorced,No,Bachelor,Excellent,No
+26-35,Male,Low,SUV,Married,Yes,Master,Excellent,No
+26-35,Male,High,Sedan,Divorced,Yes,Bachelor,Poor,No
+46-60,Female,Low,SUV,Single,No,Bachelor,Good,No
+26-35,Female,Medium,Sedan,Single,No,Master,Poor,No
+46-60,Male,Medium,Sedan,Married,No,High School,Fair,No
+46-60,Female,Medium,Convertible,Married,Yes,Bachelor,Good,No
+60+,Male,Low,Sedan,Single,Yes,PhD,Excellent,No
+18-25,Female,Low,Truck,Single,Yes,Master,Good,No
+46-60,Female,Low,Truck,Married,No,High School,Excellent,Yes
+36-45,Female,Medium,Truck,Married,No,High School,Poor,No
+18-25,Male,Medium,Convertible,Married,Yes,Bachelor,Poor,Yes
+18-25,Other,Low,SUV,Single,Yes,Master,Good,No
+18-25,Female,Medium,Hatchback,Single,Yes,Bachelor,Fair,No
+60+,Male,High,Sedan,Divorced,Yes,Bachelor,Excellent,No
+46-60,Female,Low,Hatchback,Single,Yes,High School,Fair,Yes
+60+,Male,Medium,SUV,Married,No,Master,Fair,Yes
+46-60,Female,Medium,SUV,Married,Yes,Master,Good,No
+60+,Male,Low,Convertible,Single,Yes,PhD,Fair,No
+60+,Female,Medium,Truck,Married,No,Bachelor,Excellent,No
+36-45,Female,Medium,Truck,Married,Yes,Master,Fair,Yes
+60+,Male,High,SUV,Married,Yes,Bachelor,Fair,No
+26-35,Male,High,Convertible,Married,Yes,Bachelor,Excellent,Yes
+36-45,Male,Medium,Convertible,Single,No,Master,Fair,No
+60+,Male,Medium,Sedan,Married,No,High School,Excellent,No
+18-25,Male,Medium,Truck,Married,Yes,Bachelor,Poor,No
+26-35,Female,Medium,SUV,Married,Yes,Master,Poor,No
+26-35,Male,Medium,Hatchback,Single,Yes,Bachelor,Excellent,No
+26-35,Male,Low,Truck,Married,No,High School,Excellent,No
+36-45,Female,Medium,Sedan,Divorced,No,Bachelor,Fair,Yes
+60+,Male,Medium,Convertible,Married,No,Bachelor,Good,No
+60+,Female,Medium,SUV,Married,Yes,PhD,Excellent,No
+18-25,Female,High,Truck,Married,No,High School,Fair,Yes
+18-25,Female,Low,Hatchback,Married,No,Master,Poor,No
+26-35,Female,Medium,Sedan,Divorced,No,High School,Good,No
+18-25,Female,Low,Sedan,Single,No,High School,Poor,Yes
+36-45,Male,Medium,Truck,Married,Yes,High School,Poor,No
+60+,Male,Medium,Hatchback,Single,Yes,Master,Excellent,No
+26-35,Male,Medium,Sedan,Married,Yes,High School,Poor,No
+18-25,Female,Medium,SUV,Single,Yes,Master,Excellent,Yes
+36-45,Male,Medium,Sedan,Married,No,Bachelor,Good,No
+36-45,Female,Medium,Hatchback,Single,No,PhD,Good,No
+18-25,Other,Medium,Convertible,Married,No,Master,Good,No
+60+,Female,Medium,Convertible,Married,Yes,Master,Fair,Yes
+18-25,Female,High,Truck,Single,Yes,Master,Poor,No
+26-35,Male,Low,Hatchback,Divorced,No,Bachelor,Poor,Yes
+18-25,Female,Low,Sedan,Married,Yes,Master,Good,No
+36-45,Female,Medium,Sedan,Married,Yes,High School,Fair,No
+18-25,Male,High,Convertible,Married,No,High School,Poor,Yes
+60+,Male,Medium,Convertible,Single,No,Bachelor,Excellent,No
+46-60,Female,Low,SUV,Married,Yes,Bachelor,Excellent,No
+18-25,Female,Medium,Convertible,Single,No,Bachelor,Fair,No
+60+,Female,Medium,SUV,Married,No,Bachelor,Poor,No
+60+,Female,Low,Sedan,Married,No,Bachelor,Good,No
+36-45,Female,Medium,SUV,Single,No,Bachelor,Excellent,No
+60+,Female,High,SUV,Married,Yes,High School,Poor,No
+60+,Male,Medium,Truck,Single,No,PhD,Poor,No
+60+,Male,Medium,Convertible,Divorced,Yes,PhD,Excellent,No
+60+,Male,Medium,SUV,Single,Yes,PhD,Excellent,No
+26-35,Female,Low,Sedan,Married,No,Bachelor,Good,Yes
+26-35,Female,High,Hatchback,Single,Yes,Bachelor,Fair,Yes
+36-45,Female,Medium,SUV,Married,No,PhD,Fair,No
+18-25,Male,Medium,Convertible,Married,No,PhD,Good,No
+60+,Female,Medium,Truck,Single,No,Master,Poor,No
+18-25,Female,Medium,Sedan,Married,No,Bachelor,Fair,Yes
+18-25,Female,Medium,Truck,Married,Yes,Bachelor,Fair,No
+36-45,Female,Low,Hatchback,Married,Yes,Master,Good,No
+60+,Male,High,SUV,Married,Yes,High School,Good,Yes
+60+,Female,High,SUV,Married,Yes,Bachelor,Excellent,Yes
+46-60,Male,Medium,Convertible,Single,Yes,Master,Good,No
+18-25,Male,High,SUV,Single,No,Master,Excellent,Yes
+18-25,Female,Low,Sedan,Married,No,Bachelor,Excellent,No
+26-35,Female,Medium,Hatchback,Married,No,Bachelor,Fair,Yes
+46-60,Female,Medium,Truck,Single,No,PhD,Fair,Yes
+26-35,Female,Medium,Hatchback,Single,No,Bachelor,Good,No
+26-35,Female,Medium,SUV,Married,Yes,Master,Poor,No
+26-35,Female,Medium,Truck,Divorced,Yes,Master,Excellent,Yes
+36-45,Female,Low,Convertible,Single,Yes,Master,Poor,No
+36-45,Male,Medium,Hatchback,Married,No,Master,Fair,No
+26-35,Male,Low,Truck,Married,Yes,Bachelor,Good,No
+46-60,Male,Medium,Truck,Married,No,Bachelor,Good,No
+18-25,Male,Low,Truck,Single,No,Bachelor,Good,No
+46-60,Male,Low,Sedan,Married,Yes,High School,Good,No
+60+,Male,Medium,Hatchback,Married,Yes,High School,Fair,Yes
+36-45,Male,Medium,Truck,Single,Yes,High School,Fair,Yes
+18-25,Other,High,Hatchback,Married,Yes,Master,Excellent,No
+18-25,Male,Medium,Truck,Single,No,High School,Fair,No
+60+,Female,Medium,Convertible,Single,No,High School,Fair,No
+60+,Male,High,Convertible,Married,No,High School,Fair,Yes
+26-35,Female,Medium,Convertible,Married,No,Bachelor,Poor,Yes
+36-45,Male,Low,SUV,Single,No,High School,Good,Yes
+36-45,Male,Medium,Truck,Married,No,Bachelor,Good,Yes
+46-60,Female,High,SUV,Married,Yes,High School,Good,Yes
+26-35,Male,Medium,Hatchback,Married,No,Master,Good,No
+26-35,Male,Low,SUV,Married,Yes,PhD,Poor,No
+26-35,Male,Low,Hatchback,Single,Yes,PhD,Fair,No
+26-35,Male,Low,Hatchback,Divorced,Yes,Bachelor,Poor,No
+36-45,Male,Medium,Hatchback,Married,No,Bachelor,Poor,Yes
+36-45,Male,Medium,SUV,Married,Yes,Bachelor,Fair,No
+26-35,Female,Low,Truck,Married,Yes,Bachelor,Fair,Yes
+46-60,Female,High,SUV,Single,No,Bachelor,Good,Yes
+18-25,Female,Medium,Truck,Single,No,High School,Good,Yes
+18-25,Male,Medium,Truck,Married,No,Master,Excellent,Yes
+46-60,Female,High,Hatchback,Married,No,High School,Good,No
+26-35,Male,Low,SUV,Married,No,Bachelor,Poor,No
+36-45,Male,Medium,Truck,Divorced,No,Bachelor,Fair,No
+18-25,Female,Medium,Convertible,Single,Yes,Bachelor,Fair,No
+60+,Male,High,Truck,Married,No,Master,Fair,No
+60+,Male,Medium,Convertible,Married,No,Bachelor,Poor,No
+46-60,Female,Low,SUV,Single,Yes,Bachelor,Poor,Yes
+26-35,Female,High,SUV,Married,Yes,Bachelor,Good,Yes
+18-25,Female,Low,SUV,Married,Yes,High School,Good,Yes
+26-35,Female,High,Truck,Married,No,Bachelor,Good,No
+18-25,Other,High,Sedan,Single,Yes,PhD,Fair,No
+46-60,Male,Low,Truck,Single,No,PhD,Good,Yes
+46-60,Male,Medium,Truck,Single,No,Master,Good,Yes
+60+,Male,Low,Hatchback,Married,No,High School,Good,No
+26-35,Male,Medium,Hatchback,Single,No,High School,Poor,No
+60+,Male,Medium,Truck,Married,Yes,Bachelor,Good,No
+26-35,Female,Medium,Convertible,Married,Yes,Master,Good,Yes
+60+,Female,High,Hatchback,Married,Yes,Master,Poor,No
+36-45,Female,Medium,Truck,Married,No,Master,Poor,No
+36-45,Male,Medium,Sedan,Married,Yes,Bachelor,Poor,No
+36-45,Female,High,Convertible,Married,Yes,High School,Good,Yes
+36-45,Female,High,SUV,Married,Yes,High School,Good,Yes
+18-25,Female,Low,Truck,Married,No,High School,Fair,No
+36-45,Male,High,Truck,Married,Yes,Bachelor,Fair,No
+46-60,Female,Low,Convertible,Married,No,High School,Excellent,No
+46-60,Male,High,Hatchback,Single,Yes,Master,Fair,No
+18-25,Male,Low,Hatchback,Married,Yes,Bachelor,Poor,No
+36-45,Male,Low,Hatchback,Divorced,Yes,Bachelor,Fair,No
+36-45,Female,Medium,SUV,Single,Yes,High School,Good,Yes
+36-45,Female,Medium,Convertible,Single,No,High School,Good,Yes
+60+,Male,Medium,Convertible,Single,Yes,Master,Fair,No
+26-35,Male,Low,Hatchback,Married,No,Bachelor,Excellent,No
+60+,Male,Medium,Hatchback,Single,No,Bachelor,Good,No
+26-35,Male,High,Sedan,Married,No,Master,Poor,Yes
+36-45,Male,Medium,Sedan,Single,No,Bachelor,Good,Yes
+36-45,Male,Low,Truck,Single,Yes,Bachelor,Poor,No
+60+,Female,Medium,Truck,Married,No,Master,Good,No
+60+,Male,Low,Convertible,Single,No,Master,Fair,No
+26-35,Male,High,Convertible,Divorced,No,Bachelor,Good,Yes
+46-60,Male,High,SUV,Single,No,Bachelor,Fair,No
+26-35,Female,Medium,SUV,Married,Yes,Bachelor,Excellent,No
+60+,Female,Medium,Sedan,Single,No,Master,Fair,No
+60+,Female,Medium,Truck,Single,No,Bachelor,Good,No
+18-25,Male,Medium,Sedan,Divorced,Yes,Master,Fair,Yes
+60+,Female,High,Sedan,Married,No,Master,Excellent,No
+18-25,Male,Medium,Truck,Single,No,PhD,Good,No
+46-60,Female,Medium,SUV,Married,Yes,High School,Fair,Yes
+26-35,Female,Medium,Truck,Married,Yes,High School,Excellent,No
+26-35,Female,Medium,Hatchback,Single,No,High School,Fair,No
+18-25,Female,High,Hatchback,Single,Yes,Master,Good,No
+26-35,Female,Medium,Hatchback,Divorced,Yes,Bachelor,Good,No
+60+,Male,Medium,Convertible,Divorced,Yes,High School,Poor,Yes
+36-45,Female,Low,SUV,Divorced,Yes,High School,Excellent,Yes
+18-25,Male,Medium,SUV,Married,No,Bachelor,Fair,No
+26-35,Female,Medium,Convertible,Married,Yes,High School,Poor,Yes
+18-25,Male,Low,Sedan,Single,No,High School,Excellent,Yes
+18-25,Male,Low,Hatchback,Single,No,Bachelor,Good,No
+36-45,Male,Medium,Hatchback,Single,Yes,High School,Poor,No
+60+,Male,Medium,Sedan,Married,Yes,High School,Poor,Yes
+18-25,Female,Medium,Truck,Married,No,Master,Good,No
+26-35,Female,Low,Truck,Married,Yes,Master,Poor,No
+46-60,Male,Medium,SUV,Divorced,Yes,Bachelor,Excellent,No
+18-25,Male,Low,Convertible,Married,No,High School,Good,Yes
+18-25,Female,Medium,SUV,Divorced,No,Master,Fair,No
+36-45,Male,Low,Truck,Single,No,Bachelor,Fair,Yes
+60+,Female,Low,Sedan,Married,No,High School,Good,No
+46-60,Female,Low,SUV,Married,No,High School,Fair,No
+26-35,Female,Medium,Hatchback,Single,No,High School,Good,Yes
+46-60,Female,Low,Hatchback,Divorced,No,Bachelor,Excellent,Yes
+26-35,Male,Medium,Sedan,Married,Yes,Master,Good,No
+60+,Female,Medium,Truck,Single,Yes,Master,Fair,No
+26-35,Male,Medium,Hatchback,Single,No,Bachelor,Fair,Yes
+36-45,Male,Medium,Hatchback,Married,No,Bachelor,Good,Yes
+36-45,Female,High,Convertible,Married,Yes,Bachelor,Good,Yes
+36-45,Male,Low,SUV,Divorced,Yes,Bachelor,Good,No
+36-45,Female,Medium,Truck,Single,Yes,High School,Poor,Yes
+46-60,Female,Low,SUV,Single,No,Bachelor,Excellent,No
+60+,Female,Low,Truck,Single,No,Master,Fair,Yes
+26-35,Female,Medium,Hatchback,Single,No,Bachelor,Good,Yes
+26-35,Male,Medium,Convertible,Single,No,Master,Good,No
+36-45,Male,High,SUV,Divorced,No,Bachelor,Good,Yes
+36-45,Female,Medium,Hatchback,Single,Yes,Bachelor,Fair,Yes
+18-25,Male,High,Truck,Married,Yes,High School,Good,Yes
+60+,Female,Low,SUV,Single,Yes,Bachelor,Poor,Yes
+46-60,Female,Low,SUV,Single,No,Master,Good,No
+26-35,Female,Low,Hatchback,Married,Yes,Bachelor,Poor,No
+18-25,Male,Low,SUV,Married,No,High School,Fair,No
+18-25,Male,Medium,Convertible,Married,No,High School,Poor,No
+26-35,Male,Medium,Convertible,Married,Yes,Bachelor,Excellent,No
+46-60,Male,Low,Hatchback,Single,No,Bachelor,Good,No
+18-25,Female,High,Truck,Married,No,Bachelor,Good,No
+18-25,Male,High,Hatchback,Single,Yes,PhD,Good,Yes
+60+,Male,Low,Convertible,Married,Yes,Master,Excellent,Yes
+46-60,Male,Low,Sedan,Single,No,Bachelor,Poor,Yes
+18-25,Female,Low,Sedan,Married,Yes,High School,Good,Yes
+46-60,Female,Low,SUV,Single,Yes,High School,Good,Yes
+26-35,Male,Low,SUV,Married,No,Bachelor,Poor,No
+36-45,Male,Medium,Sedan,Divorced,No,Master,Fair,No
+18-25,Male,Low,Convertible,Married,Yes,Master,Fair,Yes
+60+,Male,Medium,SUV,Married,No,Bachelor,Poor,Yes
+26-35,Female,High,Hatchback,Divorced,No,High School,Fair,Yes
+46-60,Female,Medium,Hatchback,Married,Yes,PhD,Poor,Yes
+26-35,Male,High,Convertible,Single,No,PhD,Good,Yes
+18-25,Male,Low,SUV,Single,Yes,Bachelor,Fair,Yes
+46-60,Other,Medium,Hatchback,Married,Yes,High School,Fair,No
+36-45,Male,Medium,SUV,Married,No,Bachelor,Excellent,Yes
+26-35,Female,Low,SUV,Single,No,Master,Good,Yes
+18-25,Male,Low,Hatchback,Single,Yes,Bachelor,Fair,Yes
+60+,Female,Medium,Sedan,Divorced,No,Master,Good,No
+46-60,Male,Medium,Hatchback,Single,No,High School,Fair,No
+26-35,Female,Medium,Convertible,Married,No,High School,Poor,No
+26-35,Other,Medium,Truck,Single,Yes,High School,Poor,No
+36-45,Male,Medium,Hatchback,Married,No,PhD,Excellent,Yes
+36-45,Male,Low,SUV,Single,Yes,Bachelor,Good,Yes
+60+,Male,Medium,SUV,Married,Yes,Master,Good,No
+60+,Male,Low,Hatchback,Single,No,High School,Excellent,No
+18-25,Male,Low,Truck,Married,No,PhD,Excellent,Yes
+18-25,Male,High,Hatchback,Married,No,Master,Good,No
+60+,Female,Medium,Truck,Single,Yes,High School,Good,No
+60+,Male,Medium,Truck,Married,Yes,Master,Fair,Yes
+46-60,Male,Medium,Convertible,Married,No,High School,Poor,No
+36-45,Female,Medium,SUV,Single,Yes,High School,Good,No
+18-25,Male,Low,SUV,Married,No,High School,Good,Yes
+36-45,Female,Low,Truck,Single,Yes,PhD,Excellent,No
+36-45,Male,Low,SUV,Married,No,PhD,Fair,No
+60+,Female,Medium,Sedan,Single,No,Bachelor,Good,Yes
+46-60,Female,Medium,Truck,Single,No,Master,Good,No
+26-35,Female,Medium,SUV,Single,No,Bachelor,Poor,Yes
+46-60,Other,Medium,Sedan,Married,No,Master,Good,No
+46-60,Male,High,Convertible,Married,Yes,High School,Good,Yes
+36-45,Other,Low,SUV,Married,Yes,Bachelor,Fair,No
+46-60,Male,Low,Sedan,Single,No,Bachelor,Good,No
+18-25,Male,Medium,Hatchback,Single,Yes,High School,Poor,Yes
+36-45,Male,Medium,Hatchback,Married,No,Bachelor,Fair,No
+18-25,Female,High,Sedan,Married,Yes,Bachelor,Good,No
+26-35,Male,Low,Truck,Single,Yes,High School,Fair,No
+36-45,Female,High,Truck,Married,Yes,PhD,Fair,No
+26-35,Female,High,SUV,Single,No,High School,Poor,Yes
+36-45,Female,Low,Hatchback,Married,No,PhD,Poor,No
+60+,Female,Medium,Truck,Married,No,High School,Fair,No
+46-60,Male,Medium,Truck,Married,No,High School,Fair,No
+60+,Male,High,Hatchback,Married,Yes,High School,Good,Yes
+26-35,Male,Low,Convertible,Single,Yes,Master,Excellent,No
+46-60,Male,Medium,Truck,Married,No,Master,Poor,No
+36-45,Male,Medium,Sedan,Married,No,High School,Poor,No
+46-60,Male,Medium,SUV,Single,Yes,High School,Fair,Yes
+18-25,Male,Medium,Truck,Married,No,Bachelor,Fair,No
+46-60,Other,Medium,Truck,Divorced,Yes,Bachelor,Good,No
+18-25,Female,High,Convertible,Married,Yes,Master,Excellent,Yes
+46-60,Male,High,Sedan,Single,No,High School,Excellent,No
+18-25,Female,High,SUV,Married,Yes,Bachelor,Poor,No
+26-35,Male,Low,Truck,Married,Yes,Master,Excellent,No
+60+,Male,Medium,SUV,Single,Yes,PhD,Poor,No
+36-45,Female,Low,Hatchback,Married,Yes,Bachelor,Good,Yes
+46-60,Female,Medium,Truck,Married,No,High School,Good,No
+60+,Male,Medium,Truck,Married,No,High School,Good,No
+36-45,Other,Medium,Hatchback,Single,No,Bachelor,Fair,Yes
+36-45,Female,Medium,Convertible,Married,No,Bachelor,Fair,Yes
+18-25,Female,High,Truck,Divorced,Yes,Master,Good,Yes
+26-35,Female,Low,SUV,Married,Yes,Master,Poor,No
+26-35,Female,Medium,Sedan,Married,Yes,Bachelor,Poor,No
+60+,Male,Medium,SUV,Single,Yes,Bachelor,Good,No
+26-35,Male,Low,Convertible,Single,Yes,Bachelor,Fair,No
+46-60,Male,Low,Sedan,Married,No,High School,Good,No
+26-35,Male,High,SUV,Single,No,High School,Poor,Yes
+60+,Female,High,SUV,Married,Yes,Bachelor,Excellent,Yes
+26-35,Male,High,Hatchback,Single,No,High School,Poor,No
+46-60,Other,High,Convertible,Married,Yes,High School,Excellent,Yes
+18-25,Female,Low,Hatchback,Single,No,High School,Fair,No
+60+,Female,Medium,Sedan,Divorced,No,High School,Good,Yes
+18-25,Female,Medium,Hatchback,Single,Yes,High School,Excellent,No
+18-25,Female,Medium,Convertible,Single,Yes,Bachelor,Fair,No
+18-25,Male,Medium,Truck,Single,No,Bachelor,Poor,Yes
+36-45,Female,Medium,Truck,Married,No,Bachelor,Fair,No
+36-45,Male,Medium,Sedan,Single,No,Bachelor,Fair,Yes
+18-25,Female,Medium,Truck,Single,No,PhD,Good,No
+60+,Male,Low,Hatchback,Single,No,High School,Fair,No
+46-60,Female,Medium,Sedan,Married,Yes,Bachelor,Excellent,Yes
+46-60,Female,Medium,Convertible,Single,Yes,High School,Good,No
+26-35,Male,Medium,Sedan,Single,Yes,Bachelor,Poor,No
+60+,Male,Low,Sedan,Single,Yes,PhD,Excellent,No
+36-45,Other,Medium,SUV,Married,Yes,Master,Fair,Yes
+18-25,Female,Low,SUV,Married,No,Bachelor,Fair,Yes
+26-35,Female,Medium,Sedan,Married,No,Bachelor,Fair,Yes
+46-60,Female,Medium,Truck,Divorced,Yes,Bachelor,Good,No
+36-45,Male,Medium,SUV,Divorced,No,High School,Fair,Yes
+36-45,Male,Low,Convertible,Single,Yes,Bachelor,Good,No
+18-25,Male,Medium,Hatchback,Married,Yes,Bachelor,Poor,No
+46-60,Female,Medium,SUV,Married,No,Bachelor,Excellent,No
+60+,Male,Medium,Sedan,Married,No,High School,Good,No
+36-45,Female,Medium,Truck,Married,Yes,Master,Fair,No
+18-25,Female,Medium,Hatchback,Married,Yes,High School,Good,No
+60+,Female,Medium,SUV,Married,No,High School,Good,No
+46-60,Female,Low,Truck,Married,Yes,Bachelor,Poor,Yes
+36-45,Other,Low,Truck,Single,Yes,High School,Poor,Yes
+60+,Male,Medium,Truck,Single,No,Master,Poor,No
+60+,Female,Medium,Sedan,Single,Yes,Bachelor,Excellent,Yes
+60+,Female,Medium,Convertible,Single,Yes,Master,Good,No
+36-45,Female,Low,Truck,Married,Yes,Bachelor,Fair,Yes
+36-45,Female,Low,Hatchback,Single,No,Master,Poor,Yes
+26-35,Male,Medium,SUV,Single,No,Master,Fair,No
+46-60,Male,Low,Hatchback,Divorced,Yes,Bachelor,Good,Yes
+18-25,Female,Medium,Sedan,Married,Yes,Bachelor,Good,No
+60+,Male,Low,Sedan,Married,Yes,Master,Excellent,No
+26-35,Female,Medium,Hatchback,Single,Yes,High School,Fair,No
+18-25,Female,High,Convertible,Single,Yes,Bachelor,Fair,No
+26-35,Male,Low,Sedan,Married,No,High School,Fair,No
+36-45,Female,Medium,Sedan,Married,Yes,High School,Excellent,Yes
+60+,Male,Low,Hatchback,Single,Yes,High School,Poor,No
+18-25,Female,Medium,Sedan,Divorced,Yes,Bachelor,Fair,Yes
+18-25,Female,Medium,Convertible,Divorced,Yes,Bachelor,Good,Yes
+18-25,Female,Medium,Convertible,Divorced,Yes,High School,Poor,No
+18-25,Male,Medium,Convertible,Married,Yes,Master,Fair,No
+18-25,Male,High,SUV,Single,No,Bachelor,Good,Yes
+26-35,Female,Low,Convertible,Married,No,PhD,Poor,No
+60+,Female,Low,Convertible,Married,Yes,PhD,Fair,No
+36-45,Female,High,SUV,Single,No,Master,Fair,No
+36-45,Male,Medium,Truck,Married,Yes,PhD,Fair,No
+36-45,Male,High,Sedan,Single,Yes,Master,Poor,No
+36-45,Male,Medium,Convertible,Married,No,Master,Excellent,No
+26-35,Female,High,Sedan,Single,Yes,High School,Poor,No
+46-60,Male,Medium,Hatchback,Married,No,Bachelor,Good,No
+60+,Male,Medium,Sedan,Single,No,Master,Poor,Yes
+18-25,Female,High,SUV,Married,No,Bachelor,Fair,No
+46-60,Male,Medium,Sedan,Married,No,Master,Poor,No
+36-45,Other,Low,Sedan,Married,Yes,Master,Poor,Yes
+46-60,Female,Low,Sedan,Divorced,No,High School,Poor,Yes
+60+,Female,Low,Truck,Married,No,Master,Fair,No
+18-25,Male,Low,Truck,Divorced,No,High School,Good,No
+18-25,Male,Medium,Hatchback,Single,Yes,Bachelor,Poor,No
+60+,Female,Medium,SUV,Single,No,Bachelor,Excellent,No
+60+,Female,Medium,Sedan,Single,Yes,High School,Fair,No
+36-45,Female,Medium,Sedan,Single,No,Bachelor,Fair,No
+18-25,Male,Medium,Sedan,Married,Yes,Bachelor,Fair,No
+46-60,Female,Low,Sedan,Single,No,High School,Fair,No
+26-35,Female,Low,Truck,Married,Yes,Master,Good,Yes
+26-35,Female,Low,Hatchback,Married,Yes,Bachelor,Good,Yes
+60+,Female,Medium,Convertible,Married,Yes,Bachelor,Fair,No
+36-45,Female,Low,SUV,Married,Yes,High School,Fair,No
+26-35,Female,Low,Sedan,Married,Yes,Master,Good,Yes
+18-25,Male,Medium,Hatchback,Single,Yes,Master,Poor,Yes
+60+,Female,High,Convertible,Single,No,High School,Fair,No
+46-60,Male,Low,Hatchback,Married,No,High School,Poor,No
+60+,Male,Medium,Truck,Married,No,Master,Fair,No
+46-60,Male,Medium,Convertible,Married,Yes,Bachelor,Poor,No
+60+,Male,Medium,Hatchback,Married,Yes,High School,Excellent,No
+60+,Male,High,Truck,Married,Yes,Bachelor,Good,No
+60+,Male,Low,Hatchback,Married,No,Bachelor,Good,No
+46-60,Female,Low,Hatchback,Single,No,Master,Fair,No
+46-60,Female,High,Convertible,Married,Yes,High School,Good,Yes
+60+,Male,Medium,Truck,Married,Yes,Bachelor,Good,No
+26-35,Female,Medium,Sedan,Single,No,High School,Good,No
+36-45,Female,Medium,SUV,Single,No,PhD,Poor,Yes
+36-45,Male,Medium,Convertible,Married,No,Master,Excellent,Yes
+36-45,Male,High,Truck,Single,No,Master,Fair,No
+46-60,Female,High,Hatchback,Single,Yes,Bachelor,Excellent,No
+46-60,Female,Medium,Truck,Married,Yes,Bachelor,Poor,No
+26-35,Female,Low,SUV,Single,Yes,PhD,Fair,Yes
+36-45,Male,High,SUV,Married,Yes,High School,Poor,No
+36-45,Male,Low,Sedan,Single,Yes,Master,Good,Yes
+60+,Male,Low,Sedan,Married,Yes,High School,Fair,No
+46-60,Male,High,SUV,Married,Yes,Bachelor,Excellent,Yes
+36-45,Male,Low,Convertible,Married,Yes,Bachelor,Excellent,No
+26-35,Male,Low,Convertible,Single,Yes,Master,Good,No
+26-35,Female,Low,Hatchback,Married,Yes,Master,Good,No
+36-45,Female,High,Sedan,Married,Yes,Bachelor,Good,No
+46-60,Male,Medium,Hatchback,Married,No,Bachelor,Good,No
+26-35,Female,Medium,Sedan,Married,No,PhD,Fair,No
+60+,Male,Low,SUV,Married,Yes,High School,Good,Yes
+26-35,Male,Medium,Convertible,Divorced,Yes,Master,Excellent,No
+18-25,Male,Medium,Convertible,Single,Yes,Bachelor,Fair,No
+18-25,Female,Medium,SUV,Single,No,Bachelor,Excellent,No
+46-60,Other,Medium,Hatchback,Married,Yes,High School,Poor,No
+36-45,Female,Low,Hatchback,Single,Yes,Bachelor,Fair,No
+46-60,Male,High,Truck,Divorced,No,High School,Poor,Yes
+46-60,Female,Medium,Sedan,Married,Yes,High School,Poor,No
+46-60,Male,High,Hatchback,Married,Yes,High School,Excellent,No
+46-60,Female,Medium,SUV,Single,Yes,Bachelor,Excellent,No
+60+,Female,Medium,Hatchback,Single,Yes,Bachelor,Good,Yes
+60+,Male,Medium,Convertible,Married,Yes,Master,Excellent,No
+26-35,Female,Medium,Sedan,Divorced,No,High School,Fair,Yes
+18-25,Female,High,Truck,Divorced,Yes,Bachelor,Poor,No
+46-60,Male,Medium,Sedan,Single,No,Bachelor,Good,No
+26-35,Female,Low,Convertible,Single,Yes,Bachelor,Excellent,No
+18-25,Male,Medium,Convertible,Single,Yes,Master,Poor,No
+36-45,Female,Medium,Convertible,Married,Yes,Bachelor,Excellent,Yes
+60+,Female,Medium,Convertible,Single,Yes,Master,Good,Yes
+18-25,Female,Low,SUV,Single,Yes,Bachelor,Excellent,No
+36-45,Female,Medium,Truck,Single,Yes,Bachelor,Fair,Yes
+18-25,Female,Medium,Convertible,Single,No,Bachelor,Fair,No
+60+,Male,Medium,Convertible,Divorced,Yes,Master,Good,No
+60+,Female,Medium,Hatchback,Married,Yes,PhD,Good,Yes
+26-35,Male,Medium,Truck,Single,Yes,Bachelor,Fair,No
+46-60,Female,Low,Sedan,Single,Yes,Master,Excellent,No
+18-25,Male,Medium,Truck,Single,Yes,High School,Excellent,Yes
+18-25,Male,Low,Truck,Single,Yes,PhD,Poor,No
+36-45,Female,Low,Truck,Single,Yes,High School,Poor,No
+60+,Male,Medium,Convertible,Married,Yes,High School,Fair,No
+18-25,Female,High,Convertible,Single,No,High School,Fair,No
+60+,Male,Medium,SUV,Single,Yes,PhD,Good,No
+18-25,Male,Medium,Sedan,Single,Yes,Master,Poor,Yes
+26-35,Female,High,Hatchback,Married,No,PhD,Good,Yes
+46-60,Male,High,Truck,Married,No,Master,Good,No
+18-25,Male,Low,Sedan,Married,No,Bachelor,Fair,No
+60+,Female,High,Sedan,Married,Yes,PhD,Good,Yes
+26-35,Male,Medium,SUV,Married,No,PhD,Fair,No
+18-25,Female,Medium,Hatchback,Single,No,Bachelor,Poor,No
+36-45,Male,Low,Truck,Divorced,Yes,High School,Good,Yes
+46-60,Male,Medium,Hatchback,Single,No,Bachelor,Excellent,Yes
+18-25,Female,Low,SUV,Married,Yes,PhD,Fair,No
+26-35,Male,Low,Convertible,Married,No,Master,Fair,No
+36-45,Male,Medium,Sedan,Married,No,Master,Fair,Yes
+26-35,Male,High,Truck,Divorced,No,PhD,Fair,No
+26-35,Male,High,Convertible,Married,No,Master,Fair,Yes
+36-45,Female,Medium,SUV,Married,Yes,Master,Good,No
+26-35,Male,High,Hatchback,Married,Yes,Master,Poor,No
+36-45,Female,High,Sedan,Divorced,No,High School,Excellent,No
+18-25,Female,Medium,Truck,Divorced,No,Bachelor,Poor,No
+36-45,Male,Low,Convertible,Married,No,Bachelor,Excellent,No
+36-45,Female,Medium,Convertible,Married,No,Master,Excellent,Yes
+46-60,Male,High,Sedan,Single,No,Bachelor,Good,Yes
+36-45,Other,Medium,Hatchback,Single,No,High School,Poor,No
+36-45,Male,Medium,SUV,Married,Yes,High School,Good,No
+18-25,Female,Medium,Hatchback,Divorced,Yes,Bachelor,Good,Yes
+46-60,Female,Medium,Hatchback,Married,No,Bachelor,Excellent,No
+60+,Male,Medium,Hatchback,Divorced,Yes,Bachelor,Good,No
+18-25,Female,Low,Sedan,Married,Yes,High School,Fair,No
+18-25,Female,Medium,Sedan,Single,Yes,Bachelor,Excellent,No
+60+,Male,High,SUV,Single,No,High School,Excellent,Yes
+36-45,Male,High,Hatchback,Single,No,Bachelor,Good,Yes
+26-35,Female,Low,Sedan,Single,No,Bachelor,Excellent,Yes
+46-60,Female,High,SUV,Married,Yes,Bachelor,Good,Yes
+26-35,Other,Medium,SUV,Divorced,No,Bachelor,Good,No
+60+,Female,Medium,Hatchback,Married,No,High School,Good,No
+18-25,Female,Medium,Truck,Married,Yes,Master,Good,No
+18-25,Female,High,Hatchback,Single,Yes,Bachelor,Fair,No
+46-60,Male,High,Truck,Single,Yes,High School,Good,No
+18-25,Male,Medium,SUV,Married,No,High School,Good,Yes
+18-25,Female,High,Sedan,Single,No,Bachelor,Fair,Yes
+46-60,Female,Low,Convertible,Single,Yes,High School,Fair,No
+46-60,Male,Medium,SUV,Married,No,High School,Good,Yes
+60+,Male,Medium,Sedan,Single,Yes,Bachelor,Good,No
+18-25,Female,Medium,SUV,Divorced,Yes,Bachelor,Poor,No
+18-25,Female,Low,Hatchback,Single,Yes,Bachelor,Excellent,No
+60+,Male,High,Truck,Single,Yes,Master,Excellent,Yes
+36-45,Male,Low,SUV,Single,Yes,High School,Fair,Yes
+36-45,Male,Low,Sedan,Single,Yes,PhD,Fair,No
+36-45,Male,Medium,Hatchback,Married,Yes,High School,Excellent,No
+60+,Male,Medium,Convertible,Married,Yes,Bachelor,Excellent,No
+18-25,Male,High,Hatchback,Married,No,High School,Fair,Yes
+60+,Female,Medium,Truck,Married,Yes,Master,Poor,Yes
+60+,Male,Low,Hatchback,Single,Yes,Bachelor,Fair,No
+36-45,Female,High,Convertible,Married,No,High School,Good,Yes
+26-35,Female,Medium,Sedan,Single,Yes,Bachelor,Poor,No
+18-25,Male,Low,SUV,Single,No,High School,Good,No
+36-45,Female,Medium,Truck,Married,No,Master,Fair,No
+26-35,Male,Medium,Convertible,Married,Yes,Bachelor,Excellent,No
+26-35,Female,Medium,Truck,Married,No,High School,Fair,Yes
+46-60,Male,Medium,Hatchback,Single,No,Bachelor,Good,No
+18-25,Female,High,Truck,Single,No,High School,Excellent,No
+26-35,Female,High,Convertible,Divorced,No,Bachelor,Fair,No
+36-45,Male,Medium,SUV,Single,Yes,Bachelor,Fair,Yes
+46-60,Male,Low,SUV,Single,No,Bachelor,Good,Yes
+18-25,Female,High,Truck,Single,Yes,PhD,Fair,No
+60+,Female,Medium,Sedan,Single,Yes,High School,Excellent,Yes
+36-45,Male,Medium,Truck,Single,Yes,PhD,Poor,No
+26-35,Female,Medium,Hatchback,Married,Yes,Bachelor,Poor,Yes
+26-35,Male,High,SUV,Married,Yes,High School,Excellent,Yes
+36-45,Female,Medium,SUV,Divorced,No,Bachelor,Good,Yes
+26-35,Male,Low,SUV,Single,No,Master,Good,No
+46-60,Female,Medium,Sedan,Single,Yes,Bachelor,Fair,No
+18-25,Male,High,Sedan,Married,No,High School,Poor,No
+46-60,Male,Low,Convertible,Married,No,High School,Excellent,Yes
+26-35,Male,High,Truck,Married,Yes,Master,Fair,No
+60+,Male,Medium,Truck,Married,Yes,Bachelor,Fair,Yes
+18-25,Female,Medium,Hatchback,Single,No,Bachelor,Poor,Yes
+18-25,Male,Low,SUV,Married,No,High School,Fair,No
+36-45,Female,Low,Sedan,Married,No,Master,Good,Yes
+36-45,Male,High,Hatchback,Single,No,PhD,Excellent,No
+60+,Male,Low,Hatchback,Married,Yes,High School,Good,No
+18-25,Male,Medium,Sedan,Married,Yes,High School,Good,No
+60+,Male,Medium,Truck,Single,No,Master,Good,No
+36-45,Male,Low,SUV,Single,Yes,Master,Good,No
+36-45,Male,Low,Truck,Single,No,Bachelor,Good,Yes
+18-25,Female,Medium,Hatchback,Married,No,PhD,Fair,No
+46-60,Male,High,SUV,Single,No,Bachelor,Fair,No
+26-35,Female,Medium,Convertible,Single,No,High School,Excellent,No
+36-45,Female,Medium,Hatchback,Single,Yes,Master,Poor,Yes
+36-45,Male,Medium,Truck,Married,No,Bachelor,Poor,No
+46-60,Male,Medium,Truck,Married,No,PhD,Good,No
+46-60,Other,Medium,Truck,Married,No,High School,Good,No
+60+,Female,High,Sedan,Single,No,Bachelor,Good,No
+60+,Female,Medium,Hatchback,Divorced,Yes,Master,Fair,No
+26-35,Male,Medium,SUV,Married,No,Bachelor,Excellent,No
+26-35,Female,Low,Truck,Married,No,Bachelor,Good,No
+18-25,Female,High,Truck,Married,Yes,Master,Excellent,Yes
+60+,Female,Low,Sedan,Married,No,Bachelor,Poor,Yes
+36-45,Other,Low,SUV,Married,No,Bachelor,Fair,No
+60+,Male,Medium,Hatchback,Single,No,Master,Fair,No
+36-45,Male,Medium,Convertible,Married,Yes,High School,Poor,No
+46-60,Female,Medium,Sedan,Married,No,PhD,Poor,No
+60+,Female,Medium,Hatchback,Married,No,Master,Fair,No
+46-60,Male,Medium,Convertible,Divorced,Yes,Bachelor,Good,Yes
+26-35,Male,Low,Truck,Married,Yes,Bachelor,Good,No
+26-35,Male,High,Truck,Single,Yes,PhD,Good,No
+18-25,Male,Medium,SUV,Single,No,High School,Poor,No
+60+,Female,Medium,Convertible,Married,No,Bachelor,Fair,No
+46-60,Female,Medium,Truck,Married,Yes,Bachelor,Poor,Yes
+36-45,Male,Low,Truck,Single,Yes,High School,Fair,No
+26-35,Male,Medium,SUV,Single,Yes,Bachelor,Fair,No
+26-35,Male,Medium,Hatchback,Married,No,PhD,Fair,No
+36-45,Male,Medium,Truck,Married,Yes,Master,Excellent,No
+46-60,Female,Medium,Sedan,Divorced,Yes,Bachelor,Excellent,No
+46-60,Other,High,Sedan,Married,Yes,Bachelor,Good,No
+60+,Female,Medium,Hatchback,Married,No,Bachelor,Excellent,No
+60+,Male,High,Convertible,Married,Yes,High School,Good,Yes
+18-25,Female,Medium,SUV,Divorced,Yes,Master,Excellent,No
+26-35,Female,Low,Sedan,Married,No,Master,Good,Yes
+60+,Female,Low,Sedan,Married,Yes,Master,Good,No
+46-60,Male,Medium,Hatchback,Divorced,Yes,Bachelor,Good,No
+36-45,Male,Low,Convertible,Divorced,No,Bachelor,Poor,No
+46-60,Male,Low,Convertible,Single,Yes,High School,Good,No
+26-35,Male,High,Hatchback,Single,No,Bachelor,Excellent,No
+46-60,Male,High,Sedan,Single,Yes,Bachelor,Good,No
+18-25,Male,Medium,SUV,Single,No,PhD,Poor,No
+26-35,Female,Low,Sedan,Single,Yes,Master,Fair,No
+36-45,Female,Low,Convertible,Single,No,PhD,Excellent,No
+18-25,Male,Low,Sedan,Single,Yes,Master,Excellent,No
+26-35,Male,Medium,SUV,Married,Yes,High School,Fair,No
+36-45,Female,High,Truck,Married,No,Bachelor,Excellent,Yes
+18-25,Female,Medium,Sedan,Single,No,High School,Excellent,No
+18-25,Female,Low,Hatchback,Married,Yes,High School,Poor,No
+26-35,Other,Medium,Truck,Married,No,Bachelor,Excellent,No
+60+,Female,Medium,Hatchback,Married,Yes,Master,Fair,No
+18-25,Other,Medium,Hatchback,Divorced,No,Bachelor,Good,No
+18-25,Male,Medium,Hatchback,Single,Yes,High School,Good,Yes
+36-45,Male,Medium,Sedan,Single,No,High School,Good,No
+46-60,Male,Low,Convertible,Married,Yes,High School,Good,Yes
+26-35,Male,Low,Truck,Single,Yes,High School,Fair,No
+26-35,Male,High,SUV,Married,Yes,High School,Excellent,Yes
+60+,Female,Low,Convertible,Single,Yes,Bachelor,Excellent,No
+60+,Female,Low,Sedan,Single,No,Master,Good,No
+26-35,Female,Low,Hatchback,Single,No,Bachelor,Fair,No
+60+,Male,Low,SUV,Single,No,Bachelor,Poor,No
+36-45,Female,Medium,Truck,Married,Yes,High School,Fair,No
+26-35,Female,High,Convertible,Married,Yes,PhD,Excellent,Yes
+60+,Male,Medium,Convertible,Single,No,Bachelor,Poor,No
+26-35,Female,Medium,SUV,Single,No,Master,Excellent,No
+46-60,Male,Medium,Sedan,Single,Yes,PhD,Excellent,No
+18-25,Male,Medium,Truck,Single,No,Master,Good,No
+26-35,Female,High,SUV,Married,No,High School,Good,Yes
+18-25,Male,High,Hatchback,Single,No,Bachelor,Good,No
+60+,Male,Low,Truck,Married,Yes,High School,Good,No
+18-25,Female,Medium,Convertible,Married,Yes,High School,Fair,No
+26-35,Female,Medium,SUV,Single,Yes,High School,Excellent,Yes
+46-60,Male,High,Convertible,Married,Yes,PhD,Good,Yes
+60+,Male,Medium,Convertible,Divorced,Yes,PhD,Good,No
+26-35,Male,High,Convertible,Married,Yes,High School,Good,Yes
+60+,Female,Medium,Sedan,Married,No,Bachelor,Poor,No
+36-45,Male,Low,Convertible,Married,Yes,PhD,Poor,No
+18-25,Male,Medium,Hatchback,Married,Yes,Bachelor,Excellent,Yes
+36-45,Female,High,Hatchback,Single,No,Bachelor,Fair,No
+26-35,Female,High,Truck,Married,No,Bachelor,Good,Yes
+46-60,Male,Low,Convertible,Married,No,Master,Fair,Yes
+60+,Female,Medium,Convertible,Married,Yes,Bachelor,Poor,No
+18-25,Female,Medium,SUV,Divorced,No,Master,Poor,No
+60+,Male,Low,Sedan,Married,No,Bachelor,Excellent,No
+26-35,Male,Medium,Truck,Single,Yes,High School,Good,No
+60+,Female,Low,Convertible,Single,No,Bachelor,Good,No
+18-25,Male,High,SUV,Married,Yes,High School,Excellent,Yes
+26-35,Female,Medium,Sedan,Married,Yes,Bachelor,Poor,Yes
+60+,Male,High,Truck,Married,Yes,High School,Fair,Yes
+46-60,Male,Low,Truck,Divorced,Yes,Master,Good,No
+26-35,Male,Medium,Convertible,Married,Yes,Bachelor,Good,Yes
+26-35,Male,Low,Truck,Married,No,Master,Fair,Yes
+46-60,Male,Low,SUV,Single,Yes,PhD,Excellent,No
+36-45,Male,Low,Truck,Married,No,Master,Excellent,No
+18-25,Female,Low,Hatchback,Married,No,PhD,Poor,No
+36-45,Other,Medium,SUV,Married,Yes,Bachelor,Poor,No
+60+,Female,Low,Sedan,Married,Yes,High School,Excellent,No
+46-60,Female,Medium,Sedan,Married,No,PhD,Fair,No
+36-45,Male,Medium,Convertible,Single,No,Master,Poor,No
+26-35,Other,High,Convertible,Single,Yes,Master,Good,Yes
+60+,Male,High,Hatchback,Married,Yes,Bachelor,Fair,No
+60+,Female,Medium,Sedan,Single,No,Bachelor,Fair,No
+36-45,Other,Medium,Sedan,Single,Yes,High School,Poor,Yes
+36-45,Female,Low,Sedan,Single,No,Master,Good,No
+46-60,Other,High,Sedan,Married,No,High School,Good,Yes
+18-25,Female,Low,Truck,Single,Yes,High School,Fair,No
+36-45,Male,Low,SUV,Married,Yes,Bachelor,Fair,No
+36-45,Male,Low,SUV,Married,Yes,Bachelor,Good,Yes
+26-35,Female,Medium,Hatchback,Married,No,High School,Excellent,Yes
+60+,Male,Low,Truck,Married,Yes,Master,Excellent,No
+18-25,Female,Medium,Sedan,Single,Yes,Master,Fair,No
+26-35,Other,Low,Sedan,Married,No,Bachelor,Good,No
+46-60,Male,Medium,Convertible,Divorced,Yes,Bachelor,Good,No
+46-60,Female,Low,Convertible,Married,Yes,PhD,Excellent,No
+36-45,Female,Low,Hatchback,Divorced,No,High School,Good,No
+36-45,Female,High,Sedan,Married,Yes,Master,Poor,Yes
+46-60,Other,Low,Hatchback,Single,No,High School,Good,Yes
+36-45,Female,High,Truck,Single,No,Bachelor,Poor,No
+18-25,Other,Medium,SUV,Married,Yes,Bachelor,Poor,No
+36-45,Female,Low,Sedan,Single,Yes,Master,Good,Yes
+60+,Male,High,Truck,Single,Yes,High School,Excellent,No
+36-45,Male,Low,Sedan,Married,No,High School,Fair,No
+26-35,Female,High,Convertible,Single,Yes,Bachelor,Good,Yes
+18-25,Male,Low,Hatchback,Single,No,Bachelor,Fair,No
+26-35,Female,High,Convertible,Married,No,Bachelor,Excellent,Yes
+26-35,Female,Low,SUV,Married,Yes,Bachelor,Good,No
+60+,Male,Medium,Convertible,Single,No,Bachelor,Fair,No
+18-25,Female,Medium,Sedan,Married,Yes,High School,Fair,Yes
+18-25,Female,High,Convertible,Married,No,High School,Fair,Yes
+18-25,Female,High,Sedan,Married,No,Bachelor,Poor,No
+18-25,Male,High,SUV,Single,Yes,Bachelor,Poor,No
+18-25,Male,High,Convertible,Single,Yes,High School,Good,Yes
+60+,Male,Low,Hatchback,Married,No,High School,Fair,No
+36-45,Female,Low,Hatchback,Single,No,Bachelor,Good,No
+26-35,Male,Low,Hatchback,Divorced,No,High School,Poor,No
+18-25,Female,Medium,Convertible,Married,Yes,Bachelor,Good,No
+36-45,Male,Medium,Convertible,Married,Yes,Bachelor,Fair,Yes
+36-45,Male,Medium,Convertible,Divorced,Yes,High School,Poor,Yes
+26-35,Female,Low,Sedan,Married,No,High School,Good,No
+60+,Female,Medium,SUV,Single,Yes,Master,Poor,No
+46-60,Male,Low,Hatchback,Single,Yes,Master,Excellent,No
+46-60,Male,Medium,Sedan,Married,No,Bachelor,Good,No
+36-45,Male,Medium,Hatchback,Single,Yes,Bachelor,Good,No
+26-35,Female,Medium,Sedan,Married,Yes,Master,Poor,No
+46-60,Female,Medium,Convertible,Married,Yes,PhD,Fair,No
+36-45,Male,Medium,Hatchback,Divorced,No,Bachelor,Fair,No
+60+,Male,Low,Convertible,Married,Yes,High School,Good,Yes
+46-60,Male,Medium,Hatchback,Married,Yes,Bachelor,Poor,Yes
+36-45,Female,Low,Truck,Single,Yes,Bachelor,Poor,No
+36-45,Other,Medium,Sedan,Married,No,Bachelor,Fair,No
+18-25,Male,Medium,Truck,Single,No,Bachelor,Fair,Yes
+60+,Female,Low,Sedan,Married,Yes,Master,Poor,No
+18-25,Male,Low,SUV,Single,Yes,Bachelor,Fair,No
+26-35,Male,High,Hatchback,Married,No,High School,Fair,No
+18-25,Female,High,SUV,Single,No,High School,Fair,No
+18-25,Female,Medium,SUV,Single,No,Bachelor,Fair,No
+46-60,Female,Low,Sedan,Married,No,High School,Good,No
+36-45,Female,Low,Truck,Married,No,Bachelor,Poor,Yes
+60+,Male,Medium,Convertible,Single,No,Bachelor,Poor,Yes
+18-25,Female,High,Sedan,Single,Yes,Bachelor,Fair,No
+60+,Male,Low,Convertible,Married,Yes,PhD,Fair,No
+18-25,Female,Medium,SUV,Married,Yes,Bachelor,Fair,No
+26-35,Male,Low,Convertible,Single,No,High School,Excellent,Yes
+18-25,Female,High,Truck,Married,No,High School,Excellent,No
+46-60,Male,Medium,Sedan,Single,No,Bachelor,Fair,Yes
+36-45,Male,Medium,Truck,Married,Yes,High School,Excellent,No
+26-35,Female,Medium,Truck,Single,Yes,Bachelor,Fair,No
+18-25,Male,Medium,Sedan,Married,Yes,High School,Fair,Yes
+60+,Female,Low,Truck,Single,Yes,Bachelor,Excellent,No
+26-35,Male,Low,Hatchback,Divorced,No,Master,Excellent,Yes
+26-35,Male,High,Hatchback,Single,No,High School,Excellent,No
+18-25,Male,High,Hatchback,Single,Yes,Bachelor,Poor,Yes
+26-35,Male,High,Convertible,Single,Yes,Bachelor,Poor,No
+60+,Female,Medium,Truck,Married,No,Master,Good,No
+26-35,Male,High,Sedan,Married,Yes,Bachelor,Good,No
+60+,Female,Low,Sedan,Married,No,Bachelor,Poor,Yes
+18-25,Female,Medium,Convertible,Divorced,Yes,Master,Excellent,No
+36-45,Male,Medium,Sedan,Divorced,Yes,Bachelor,Good,No
+26-35,Female,Medium,Hatchback,Married,Yes,Bachelor,Fair,No
+36-45,Female,Medium,Truck,Single,Yes,High School,Good,Yes
+60+,Female,Low,Sedan,Married,No,Master,Good,No
+26-35,Male,Medium,Sedan,Single,Yes,Master,Poor,No
+46-60,Male,High,SUV,Married,Yes,PhD,Excellent,Yes
+36-45,Female,Medium,SUV,Married,Yes,PhD,Fair,Yes
+26-35,Female,Low,SUV,Married,Yes,Master,Poor,Yes
+36-45,Female,Low,Truck,Married,Yes,Bachelor,Excellent,No
+26-35,Male,Low,Hatchback,Married,Yes,Master,Excellent,Yes
+18-25,Female,Low,Hatchback,Divorced,No,Bachelor,Excellent,No
+36-45,Male,Medium,Hatchback,Single,No,Bachelor,Excellent,No
+46-60,Female,Medium,Truck,Single,Yes,Bachelor,Good,No
+46-60,Male,Medium,Truck,Married,Yes,Bachelor,Excellent,No
+60+,Female,Medium,SUV,Divorced,Yes,Master,Poor,Yes
+26-35,Male,High,Sedan,Single,Yes,Bachelor,Good,No
+36-45,Male,Low,Convertible,Single,No,High School,Good,No
+60+,Female,Medium,Convertible,Single,No,High School,Poor,No
+36-45,Male,High,Sedan,Single,No,Master,Good,No
+26-35,Male,Low,SUV,Divorced,Yes,Bachelor,Good,No
+46-60,Male,Low,Sedan,Married,Yes,Bachelor,Good,Yes
+18-25,Female,High,Sedan,Married,No,Bachelor,Poor,No
+46-60,Female,Medium,Convertible,Married,Yes,Bachelor,Excellent,Yes
+60+,Male,Medium,SUV,Married,Yes,High School,Poor,Yes
+18-25,Female,Low,Truck,Single,No,Bachelor,Fair,Yes
+60+,Female,Medium,Convertible,Single,No,Master,Excellent,No
+26-35,Male,Medium,Truck,Married,No,Bachelor,Good,No
+18-25,Female,Low,SUV,Single,Yes,Bachelor,Fair,No
+60+,Female,Medium,Sedan,Married,Yes,High School,Poor,No
+26-35,Female,Low,Hatchback,Single,Yes,Bachelor,Good,No
+46-60,Male,Medium,Hatchback,Single,No,High School,Excellent,No
+26-35,Female,Low,SUV,Single,Yes,Bachelor,Excellent,No
+36-45,Female,Low,Hatchback,Married,No,Bachelor,Good,No
+26-35,Male,Low,Truck,Single,No,Master,Poor,No
+26-35,Male,Low,Hatchback,Divorced,Yes,Bachelor,Fair,No
+36-45,Male,High,SUV,Single,Yes,Bachelor,Poor,No
+60+,Male,Low,SUV,Married,Yes,Bachelor,Fair,Yes
+60+,Female,Medium,Truck,Married,No,Bachelor,Fair,No
+26-35,Male,Low,Hatchback,Divorced,No,High School,Fair,Yes
+36-45,Male,Medium,Hatchback,Married,No,Bachelor,Good,Yes
+36-45,Female,High,Sedan,Single,Yes,PhD,Fair,No
+46-60,Male,Low,Convertible,Single,Yes,High School,Good,No
+60+,Other,High,SUV,Married,No,Bachelor,Excellent,Yes
+18-25,Male,Low,Sedan,Single,Yes,Master,Good,No
+60+,Male,Medium,SUV,Single,No,Bachelor,Good,No
+60+,Male,Medium,Sedan,Married,No,Master,Good,No
+46-60,Male,High,Convertible,Married,Yes,Bachelor,Fair,No
+18-25,Male,Medium,Sedan,Married,Yes,Bachelor,Poor,No
+46-60,Female,Medium,SUV,Divorced,Yes,Bachelor,Poor,No
+18-25,Other,Low,Hatchback,Married,Yes,Master,Fair,No
+26-35,Male,Low,SUV,Married,No,PhD,Good,No
+18-25,Female,High,Truck,Married,No,High School,Excellent,No
+46-60,Female,Medium,Truck,Single,No,Bachelor,Excellent,Yes
+60+,Female,Medium,Truck,Single,No,High School,Poor,No
+18-25,Male,Medium,Truck,Divorced,Yes,High School,Excellent,Yes
+18-25,Male,Medium,Convertible,Divorced,Yes,Bachelor,Fair,No
+36-45,Male,High,Hatchback,Married,No,Bachelor,Excellent,No
+60+,Female,Medium,Hatchback,Married,Yes,High School,Poor,No
+26-35,Female,Medium,SUV,Married,No,High School,Poor,Yes
+46-60,Male,High,Sedan,Single,No,Bachelor,Fair,Yes
+26-35,Male,Low,SUV,Single,Yes,PhD,Excellent,No
+60+,Female,Low,SUV,Married,Yes,Master,Fair,Yes
+18-25,Female,Medium,SUV,Married,No,High School,Poor,No
+18-25,Other,Low,SUV,Single,No,Master,Excellent,No
+60+,Female,Medium,Hatchback,Single,Yes,Bachelor,Excellent,No
+18-25,Male,High,Sedan,Single,No,Master,Poor,No
+18-25,Female,Medium,SUV,Married,No,Bachelor,Good,No
+18-25,Female,Medium,Hatchback,Married,No,Bachelor,Fair,No
+46-60,Male,High,SUV,Married,Yes,Master,Fair,Yes
+46-60,Female,Medium,Truck,Single,Yes,High School,Fair,No
+36-45,Female,Medium,SUV,Married,No,PhD,Fair,No
+26-35,Male,Medium,SUV,Married,No,Master,Good,Yes
+60+,Female,High,Convertible,Married,Yes,PhD,Good,Yes
+60+,Female,Medium,Truck,Single,No,Bachelor,Fair,Yes
+60+,Female,Medium,Sedan,Married,No,High School,Good,Yes
+36-45,Male,High,SUV,Divorced,Yes,Bachelor,Good,Yes
+46-60,Male,Medium,Sedan,Single,No,PhD,Fair,No
+36-45,Female,Medium,Truck,Single,No,Bachelor,Poor,No
+60+,Male,High,SUV,Married,Yes,Bachelor,Good,Yes
+26-35,Female,Medium,Convertible,Married,Yes,Bachelor,Good,No
+18-25,Female,Medium,Hatchback,Single,No,Bachelor,Good,No
+46-60,Male,High,Convertible,Single,Yes,High School,Good,Yes
+46-60,Female,Medium,Convertible,Single,Yes,Bachelor,Fair,No
+36-45,Female,Medium,Hatchback,Divorced,No,Master,Good,No
+46-60,Male,High,Hatchback,Married,No,High School,Fair,No
+60+,Female,High,Hatchback,Married,No,Master,Excellent,No
+60+,Female,Medium,SUV,Married,No,Bachelor,Good,No
+36-45,Female,Low,Sedan,Single,Yes,Bachelor,Fair,No
+60+,Female,Medium,Sedan,Married,Yes,Bachelor,Fair,No
+26-35,Male,Medium,Hatchback,Married,Yes,High School,Excellent,Yes
+36-45,Female,Medium,Convertible,Single,Yes,Bachelor,Fair,No
+26-35,Female,Medium,Truck,Married,No,Master,Good,Yes
+18-25,Female,Medium,Hatchback,Married,No,Bachelor,Good,Yes
+26-35,Female,Medium,Convertible,Married,Yes,Bachelor,Good,No
+18-25,Male,Low,Convertible,Single,Yes,High School,Poor,No
+18-25,Female,Medium,SUV,Divorced,Yes,Master,Good,No
+26-35,Male,Medium,SUV,Divorced,Yes,Bachelor,Excellent,No
+36-45,Male,Low,Sedan,Single,Yes,Bachelor,Excellent,No
+60+,Male,Low,Sedan,Single,Yes,High School,Good,No
+60+,Other,Medium,Truck,Single,No,PhD,Excellent,No
+18-25,Female,Medium,Truck,Divorced,Yes,Bachelor,Good,No
+18-25,Female,Low,Truck,Married,Yes,Bachelor,Fair,Yes
+36-45,Female,High,Truck,Single,No,Bachelor,Good,No
+46-60,Female,Medium,Convertible,Single,Yes,Master,Poor,No
+26-35,Female,High,Convertible,Single,No,High School,Fair,Yes
+18-25,Female,Medium,Sedan,Married,Yes,Master,Fair,No
+60+,Male,Medium,SUV,Married,Yes,Bachelor,Excellent,Yes
+36-45,Male,High,SUV,Divorced,Yes,Bachelor,Good,Yes
+26-35,Female,Medium,Hatchback,Married,No,Bachelor,Good,Yes
+36-45,Female,Medium,Convertible,Married,Yes,Master,Fair,No
+26-35,Male,Low,Truck,Single,No,Bachelor,Poor,No
+26-35,Male,Medium,Truck,Single,Yes,Master,Fair,No
+18-25,Female,Low,Hatchback,Married,Yes,High School,Good,No
+36-45,Male,Low,SUV,Single,Yes,PhD,Fair,No
+36-45,Female,Low,Truck,Single,Yes,High School,Fair,No
+60+,Other,Low,SUV,Divorced,Yes,Bachelor,Fair,No
+60+,Male,High,Hatchback,Married,Yes,Bachelor,Good,Yes
+18-25,Male,Low,SUV,Single,Yes,Bachelor,Excellent,No
+18-25,Female,Medium,SUV,Single,Yes,Bachelor,Good,No
+46-60,Female,High,SUV,Single,Yes,Bachelor,Fair,No
+60+,Female,Medium,Truck,Divorced,Yes,High School,Fair,No
+26-35,Other,Low,Sedan,Single,Yes,Bachelor,Poor,No
+36-45,Male,Medium,Convertible,Single,No,High School,Poor,Yes
+18-25,Female,Medium,SUV,Married,No,Bachelor,Poor,No
+36-45,Female,Medium,SUV,Single,Yes,High School,Poor,No
+36-45,Female,Medium,SUV,Single,Yes,High School,Poor,No
+46-60,Male,High,Sedan,Single,Yes,High School,Fair,No
+60+,Female,Medium,Hatchback,Single,No,Bachelor,Poor,Yes
+18-25,Female,Medium,Truck,Single,Yes,Master,Good,No
+36-45,Male,Medium,Sedan,Single,No,PhD,Excellent,No
+18-25,Male,Low,SUV,Married,Yes,High School,Excellent,Yes
+26-35,Female,High,Sedan,Single,Yes,Bachelor,Poor,No
+46-60,Male,Low,Sedan,Married,Yes,Bachelor,Fair,No
+26-35,Male,Medium,Sedan,Married,Yes,Bachelor,Excellent,No
+18-25,Male,High,Hatchback,Married,No,Bachelor,Poor,Yes
+18-25,Female,Medium,Convertible,Single,Yes,High School,Excellent,No
+60+,Female,Medium,Truck,Single,No,Bachelor,Good,Yes
+36-45,Female,Medium,Hatchback,Married,No,Bachelor,Excellent,No
+36-45,Male,High,Hatchback,Married,No,High School,Excellent,Yes
+26-35,Female,Medium,Convertible,Married,Yes,Bachelor,Good,Yes
+46-60,Female,High,Hatchback,Single,Yes,Bachelor,Good,No
+36-45,Female,Low,Sedan,Divorced,Yes,High School,Fair,Yes
+60+,Female,Medium,Sedan,Single,Yes,Bachelor,Poor,No
+26-35,Male,High,SUV,Single,No,Master,Fair,No
+26-35,Female,Low,Hatchback,Married,Yes,Master,Poor,No
+60+,Male,Medium,SUV,Single,No,Bachelor,Poor,No
+46-60,Female,Low,Truck,Married,Yes,Bachelor,Fair,No
+60+,Male,Medium,Sedan,Married,No,Bachelor,Excellent,No
+46-60,Male,Medium,Truck,Married,Yes,Bachelor,Poor,No
+60+,Male,Medium,Convertible,Married,Yes,High School,Fair,Yes
+60+,Female,Low,Sedan,Married,No,Bachelor,Fair,No
+18-25,Male,Low,Truck,Married,Yes,Bachelor,Good,No
+26-35,Female,Low,Convertible,Single,No,Bachelor,Poor,No
+60+,Male,Medium,Truck,Married,Yes,PhD,Excellent,No
+60+,Male,Medium,Convertible,Single,Yes,Master,Good,Yes
+36-45,Female,High,Convertible,Single,No,High School,Good,Yes
+26-35,Male,Medium,Sedan,Single,No,High School,Poor,No
+36-45,Male,Medium,SUV,Married,Yes,High School,Fair,No
+26-35,Female,High,Convertible,Married,No,Master,Excellent,Yes
+36-45,Male,Medium,Convertible,Divorced,No,Master,Fair,No
+60+,Male,High,Sedan,Single,No,PhD,Fair,No
+60+,Male,Medium,SUV,Divorced,Yes,Bachelor,Poor,No
+18-25,Female,Low,Hatchback,Married,Yes,Master,Excellent,Yes
+36-45,Female,Low,Hatchback,Married,No,Bachelor,Poor,No
+46-60,Female,Medium,SUV,Married,No,Master,Excellent,No
+18-25,Female,Low,Truck,Single,Yes,Master,Fair,No
+36-45,Male,Medium,Sedan,Married,Yes,Bachelor,Good,No
+36-45,Male,Medium,SUV,Married,Yes,Bachelor,Good,No
+18-25,Female,Medium,Hatchback,Divorced,No,Master,Poor,No
+60+,Male,Medium,Convertible,Married,Yes,Bachelor,Fair,No
+36-45,Male,Low,Hatchback,Married,Yes,High School,Fair,No
+60+,Male,Medium,Convertible,Married,Yes,High School,Poor,Yes
+18-25,Male,Medium,Sedan,Single,No,Bachelor,Excellent,Yes
+60+,Other,High,Convertible,Single,Yes,Bachelor,Poor,No
+26-35,Male,Medium,SUV,Married,Yes,High School,Good,No
+46-60,Female,High,Convertible,Married,No,High School,Fair,No
+36-45,Male,Medium,Truck,Single,No,Bachelor,Poor,Yes
+46-60,Other,Medium,SUV,Married,Yes,Bachelor,Good,No
+60+,Male,Low,Sedan,Married,Yes,High School,Good,Yes
+36-45,Male,Medium,SUV,Divorced,No,High School,Fair,No
+60+,Female,Medium,Truck,Married,No,High School,Good,Yes
+26-35,Female,Medium,Sedan,Married,No,High School,Fair,No
+18-25,Male,Medium,Hatchback,Divorced,No,Master,Excellent,Yes
+36-45,Male,Medium,Truck,Married,No,High School,Fair,Yes
+26-35,Male,Medium,Sedan,Married,No,Master,Fair,No
+26-35,Male,Medium,Convertible,Single,Yes,Bachelor,Good,Yes
+36-45,Male,Low,SUV,Single,Yes,PhD,Poor,No
+60+,Female,High,Sedan,Married,Yes,High School,Fair,No
+26-35,Male,Low,SUV,Married,Yes,High School,Fair,Yes
+46-60,Male,Low,Convertible,Married,Yes,High School,Excellent,No
+26-35,Female,Medium,Sedan,Married,Yes,High School,Excellent,No
+60+,Other,Medium,Hatchback,Single,No,Bachelor,Good,No
+60+,Female,Medium,Truck,Divorced,Yes,High School,Fair,No
+46-60,Male,Low,Sedan,Married,Yes,High School,Good,Yes
+26-35,Male,Medium,Convertible,Married,No,Master,Fair,Yes
+60+,Female,Medium,Sedan,Married,Yes,Bachelor,Fair,Yes
+36-45,Male,High,SUV,Married,Yes,High School,Excellent,Yes
+18-25,Male,High,Sedan,Divorced,Yes,High School,Poor,No
+18-25,Female,Medium,Hatchback,Married,No,High School,Fair,No
+18-25,Female,Medium,Sedan,Single,Yes,PhD,Excellent,Yes
+26-35,Female,Medium,Truck,Married,No,Master,Good,No
+46-60,Male,Low,Sedan,Married,Yes,Master,Poor,Yes
+60+,Male,Medium,SUV,Married,Yes,PhD,Poor,No
+36-45,Other,Medium,Sedan,Single,Yes,Bachelor,Good,Yes
+36-45,Male,High,Hatchback,Divorced,No,High School,Fair,Yes
+26-35,Female,Low,Convertible,Married,No,Bachelor,Fair,No
+18-25,Female,Medium,Sedan,Divorced,No,Master,Fair,Yes
+26-35,Female,Medium,Sedan,Single,No,Master,Excellent,No
+46-60,Male,Medium,Truck,Married,Yes,Bachelor,Fair,No
+46-60,Male,Low,Hatchback,Divorced,No,Bachelor,Fair,No
+60+,Female,High,Convertible,Divorced,Yes,PhD,Fair,No
+60+,Female,Medium,SUV,Single,No,High School,Poor,No
+46-60,Female,Medium,Sedan,Single,Yes,Master,Fair,No
+46-60,Male,Low,Convertible,Married,Yes,High School,Excellent,No
+46-60,Male,Medium,SUV,Single,Yes,Bachelor,Excellent,No
+26-35,Female,Medium,Hatchback,Single,Yes,High School,Poor,No
+46-60,Female,Low,Hatchback,Single,Yes,Bachelor,Excellent,No
+36-45,Female,Low,Convertible,Married,No,Bachelor,Fair,No
+18-25,Male,High,SUV,Married,Yes,Bachelor,Good,Yes
+46-60,Female,Low,Hatchback,Single,Yes,Master,Poor,No
+18-25,Female,Low,Convertible,Single,No,Bachelor,Excellent,No
+26-35,Female,Medium,Hatchback,Married,Yes,Master,Poor,Yes
+18-25,Male,Medium,Hatchback,Married,No,High School,Good,Yes
+26-35,Male,Low,Hatchback,Single,No,Master,Good,Yes
+36-45,Female,Medium,Truck,Single,No,High School,Poor,Yes
+26-35,Male,Low,SUV,Divorced,No,High School,Fair,Yes
+26-35,Male,Low,Convertible,Divorced,Yes,High School,Poor,No
+60+,Female,Low,Convertible,Divorced,Yes,Bachelor,Good,Yes
+46-60,Male,High,SUV,Married,Yes,Master,Fair,No
+46-60,Female,Low,SUV,Single,No,High School,Good,Yes
+36-45,Male,Low,SUV,Married,Yes,Bachelor,Excellent,Yes
+36-45,Female,Medium,SUV,Married,Yes,Master,Fair,No
+46-60,Other,High,Sedan,Married,Yes,Bachelor,Poor,No
+60+,Male,Low,Convertible,Single,No,Master,Good,No
+46-60,Male,Medium,Sedan,Married,Yes,High School,Good,No
+60+,Male,Low,Hatchback,Married,No,Master,Excellent,No
+36-45,Male,Medium,Hatchback,Single,Yes,High School,Poor,Yes
+18-25,Female,Medium,Convertible,Married,Yes,PhD,Fair,No
+36-45,Female,Medium,Hatchback,Single,Yes,Bachelor,Excellent,Yes
+36-45,Male,Medium,SUV,Single,No,Bachelor,Excellent,No
+26-35,Male,Medium,Sedan,Single,No,High School,Good,No
+26-35,Male,Low,SUV,Single,Yes,High School,Fair,No
+26-35,Female,Medium,Hatchback,Single,Yes,High School,Fair,Yes
+26-35,Male,Low,Sedan,Divorced,No,Bachelor,Poor,No
+60+,Female,Medium,SUV,Married,Yes,High School,Excellent,Yes
+46-60,Female,High,Convertible,Married,Yes,Master,Poor,Yes
+18-25,Female,High,SUV,Single,Yes,High School,Good,Yes
+36-45,Male,High,Hatchback,Married,Yes,Master,Good,No
+60+,Female,Medium,Sedan,Married,Yes,High School,Fair,No
+18-25,Male,Medium,Convertible,Married,Yes,High School,Fair,Yes
+60+,Male,Low,Sedan,Married,Yes,Master,Good,No
+60+,Female,Medium,Convertible,Divorced,No,Master,Fair,No
+36-45,Female,Medium,Sedan,Married,Yes,Bachelor,Fair,Yes
+46-60,Male,Medium,Hatchback,Married,No,High School,Fair,No
+26-35,Male,Medium,Convertible,Single,Yes,Bachelor,Excellent,Yes
+46-60,Male,Low,Truck,Married,No,Bachelor,Excellent,No
+36-45,Male,Medium,Sedan,Married,Yes,Bachelor,Good,Yes
+36-45,Male,High,Sedan,Married,No,Bachelor,Good,No
+36-45,Male,Low,SUV,Married,Yes,Bachelor,Good,No
+18-25,Male,Medium,Convertible,Married,No,High School,Good,No
+46-60,Female,High,Truck,Married,Yes,PhD,Excellent,Yes
+46-60,Female,Medium,Hatchback,Single,Yes,Master,Fair,No
+60+,Female,Medium,SUV,Single,No,High School,Poor,No
+60+,Male,Low,Truck,Single,No,Bachelor,Excellent,No
+60+,Female,Medium,Convertible,Divorced,Yes,High School,Good,No
+36-45,Female,High,Truck,Married,No,Master,Fair,Yes
+46-60,Female,Medium,Sedan,Married,Yes,Bachelor,Excellent,No
+36-45,Female,Medium,Sedan,Married,Yes,High School,Fair,No
+18-25,Female,Low,SUV,Married,No,High School,Fair,No
+60+,Female,Low,Convertible,Divorced,Yes,High School,Good,No
+36-45,Male,High,Convertible,Married,No,Bachelor,Fair,Yes
+36-45,Female,Medium,Truck,Married,Yes,Master,Good,Yes
+18-25,Female,Medium,SUV,Married,No,High School,Poor,Yes
+26-35,Female,Low,Convertible,Single,Yes,High School,Poor,No
+46-60,Female,Medium,Sedan,Married,No,Bachelor,Good,No
+26-35,Male,High,Truck,Married,No,High School,Good,No
+60+,Male,Medium,Hatchback,Single,Yes,Bachelor,Poor,No
+36-45,Female,Low,Sedan,Married,No,Bachelor,Excellent,No
+18-25,Female,Medium,SUV,Married,Yes,Bachelor,Good,No
+18-25,Female,Medium,Convertible,Divorced,No,PhD,Poor,Yes
+46-60,Male,Medium,Sedan,Single,No,PhD,Fair,No
+26-35,Male,High,Hatchback,Married,Yes,Bachelor,Excellent,No
+46-60,Female,Medium,Hatchback,Married,No,Master,Good,No
+36-45,Female,High,SUV,Single,Yes,PhD,Poor,Yes
+46-60,Female,Medium,Sedan,Married,Yes,High School,Poor,No
+18-25,Male,Low,Truck,Single,Yes,High School,Fair,No
+18-25,Female,Medium,Sedan,Single,No,High School,Fair,No
+60+,Male,Low,Hatchback,Single,Yes,Bachelor,Good,No
+60+,Female,High,SUV,Single,No,Master,Excellent,Yes
+36-45,Male,Medium,SUV,Married,Yes,Bachelor,Fair,No
+26-35,Male,Medium,Truck,Single,No,Bachelor,Excellent,No
+46-60,Female,Medium,SUV,Married,Yes,Bachelor,Excellent,No
+36-45,Female,Low,SUV,Married,No,High School,Excellent,No
+60+,Male,Medium,SUV,Married,Yes,Bachelor,Excellent,No
+46-60,Female,Medium,SUV,Divorced,Yes,High School,Excellent,No
+60+,Male,Low,SUV,Married,Yes,High School,Good,No
+46-60,Male,Medium,Hatchback,Married,No,Master,Fair,No
+26-35,Male,Low,Sedan,Single,Yes,Master,Fair,No
+36-45,Male,Medium,Convertible,Married,No,Master,Excellent,No
+46-60,Female,Medium,SUV,Married,Yes,Master,Fair,No
+18-25,Male,Low,Convertible,Single,No,Master,Poor,No
+18-25,Female,High,Convertible,Single,Yes,Bachelor,Poor,No
+46-60,Female,Low,Hatchback,Single,Yes,Bachelor,Excellent,No
+46-60,Male,Low,SUV,Married,Yes,Bachelor,Good,Yes
+46-60,Female,Low,Convertible,Married,Yes,Bachelor,Fair,No
+18-25,Male,Medium,SUV,Married,Yes,Bachelor,Fair,No
+18-25,Female,Medium,Truck,Single,No,Master,Good,No
+46-60,Male,Medium,Truck,Married,No,High School,Poor,No
+60+,Male,Low,Truck,Single,No,Bachelor,Good,Yes
+60+,Male,Low,Convertible,Single,Yes,Bachelor,Fair,No
+26-35,Male,Medium,Truck,Married,Yes,High School,Excellent,No
+36-45,Male,High,Hatchback,Single,No,PhD,Good,No
+60+,Female,High,Hatchback,Single,Yes,High School,Good,No
+18-25,Female,Low,Convertible,Single,No,Bachelor,Good,No
+60+,Female,Medium,SUV,Married,Yes,High School,Fair,No
+26-35,Female,High,Sedan,Divorced,No,Master,Fair,No
+26-35,Male,Medium,SUV,Married,Yes,Bachelor,Good,Yes
+36-45,Male,High,SUV,Married,No,Bachelor,Excellent,Yes
+60+,Male,Low,SUV,Single,Yes,Master,Fair,Yes
+18-25,Male,High,SUV,Married,No,Bachelor,Good,Yes
+18-25,Female,Medium,Sedan,Married,Yes,High School,Excellent,No
+46-60,Female,High,Truck,Single,No,High School,Excellent,Yes
+18-25,Male,Medium,SUV,Single,No,Master,Good,Yes
+36-45,Male,Medium,Hatchback,Single,Yes,Bachelor,Good,Yes
+36-45,Female,High,Convertible,Married,Yes,High School,Excellent,Yes
+18-25,Female,Low,Convertible,Single,Yes,High School,Excellent,No
+18-25,Male,Medium,Hatchback,Married,Yes,High School,Excellent,Yes
+46-60,Female,Medium,SUV,Single,Yes,Bachelor,Good,Yes
+18-25,Female,Medium,Sedan,Single,Yes,High School,Fair,Yes
+46-60,Male,High,Truck,Married,Yes,High School,Poor,No
+46-60,Male,Low,Convertible,Married,No,Bachelor,Fair,No
+18-25,Female,Medium,Truck,Single,No,Bachelor,Excellent,Yes
+26-35,Female,Medium,Sedan,Single,Yes,Bachelor,Excellent,No
+26-35,Female,Low,Convertible,Single,No,Bachelor,Good,No
+46-60,Male,Medium,Truck,Single,No,Bachelor,Good,No
+18-25,Male,Low,Sedan,Single,Yes,Bachelor,Fair,No
+26-35,Female,Medium,Truck,Divorced,Yes,PhD,Fair,No
+18-25,Female,High,SUV,Married,Yes,High School,Good,Yes
+18-25,Male,Medium,Sedan,Married,No,Bachelor,Fair,Yes
+18-25,Female,Medium,Truck,Single,No,Bachelor,Poor,No
+60+,Female,High,SUV,Single,Yes,High School,Good,Yes
+18-25,Female,Medium,SUV,Single,No,Master,Fair,No
+60+,Female,High,Sedan,Married,Yes,High School,Excellent,No
+46-60,Female,Medium,Hatchback,Married,Yes,Bachelor,Fair,No
+26-35,Male,High,Convertible,Single,No,Bachelor,Excellent,Yes
+26-35,Female,Low,Sedan,Married,No,High School,Fair,No
+26-35,Male,High,SUV,Married,Yes,Bachelor,Poor,No
+26-35,Female,Low,SUV,Single,Yes,Bachelor,Good,Yes
+26-35,Male,Medium,Sedan,Single,No,Master,Good,No
+26-35,Female,Medium,Hatchback,Married,No,Master,Good,No
+26-35,Male,Medium,Convertible,Married,No,High School,Fair,No
+46-60,Male,Medium,Truck,Single,Yes,Bachelor,Poor,No
+18-25,Male,Medium,Sedan,Single,Yes,Master,Good,Yes
+36-45,Male,Medium,Convertible,Married,Yes,High School,Poor,No
+60+,Female,Low,Convertible,Single,Yes,Bachelor,Fair,No
+36-45,Female,Low,SUV,Married,No,Master,Good,Yes
+36-45,Female,Low,Truck,Married,Yes,Bachelor,Poor,No
+18-25,Male,Medium,Sedan,Single,Yes,High School,Poor,No
+18-25,Male,Low,SUV,Single,Yes,Bachelor,Poor,No
+18-25,Male,Medium,SUV,Married,Yes,Bachelor,Excellent,No
+26-35,Male,Medium,Hatchback,Single,No,PhD,Fair,No
+46-60,Female,Low,Convertible,Single,No,High School,Excellent,No
+26-35,Male,Medium,Sedan,Married,Yes,PhD,Fair,No
+46-60,Male,High,Sedan,Single,No,Bachelor,Good,No
+46-60,Male,Low,Sedan,Married,No,High School,Fair,No
+36-45,Male,Medium,SUV,Single,No,Bachelor,Fair,Yes
+36-45,Female,Medium,Hatchback,Married,Yes,Bachelor,Excellent,Yes
+46-60,Female,Medium,Truck,Single,Yes,High School,Excellent,No
+46-60,Male,Medium,SUV,Divorced,Yes,High School,Good,Yes
+26-35,Male,Medium,Truck,Married,No,Master,Excellent,No
+26-35,Male,Medium,Hatchback,Single,No,PhD,Fair,No
+36-45,Male,Low,Convertible,Married,Yes,Bachelor,Fair,No
+18-25,Male,Medium,Sedan,Single,Yes,High School,Fair,Yes
+46-60,Female,Medium,Truck,Married,Yes,Master,Excellent,Yes
+26-35,Female,Low,SUV,Married,Yes,Bachelor,Fair,Yes
+36-45,Female,Medium,Truck,Married,No,High School,Excellent,No
+26-35,Male,High,Convertible,Single,Yes,PhD,Fair,No
+46-60,Male,Medium,Sedan,Married,Yes,High School,Good,Yes
+46-60,Female,Medium,Truck,Single,No,Bachelor,Fair,No
+60+,Female,High,Convertible,Married,Yes,Bachelor,Fair,No
+18-25,Female,Medium,SUV,Married,No,Bachelor,Good,No
+60+,Male,Medium,Hatchback,Single,Yes,High School,Good,Yes
+36-45,Female,Medium,SUV,Single,No,Bachelor,Excellent,No
+26-35,Male,High,Sedan,Married,Yes,PhD,Good,No
+36-45,Female,Medium,SUV,Married,No,Bachelor,Good,No
+46-60,Female,Medium,SUV,Single,Yes,Bachelor,Excellent,Yes
+60+,Female,Medium,SUV,Single,Yes,High School,Good,Yes
+60+,Male,High,SUV,Married,No,Master,Good,Yes
+60+,Female,Medium,Sedan,Single,Yes,PhD,Fair,No
+36-45,Male,Low,Convertible,Single,No,Master,Fair,Yes
+46-60,Male,High,Truck,Single,Yes,Bachelor,Good,No
+26-35,Male,Medium,Hatchback,Single,Yes,PhD,Excellent,No
+26-35,Female,Low,Truck,Married,No,High School,Fair,No
+36-45,Male,Medium,Truck,Divorced,No,Bachelor,Fair,No
+60+,Male,Medium,Hatchback,Married,No,Bachelor,Good,No
+18-25,Female,High,Sedan,Single,No,Bachelor,Poor,No
+36-45,Male,Low,Hatchback,Married,Yes,Master,Good,No
+36-45,Female,High,Sedan,Married,No,Bachelor,Good,No
+46-60,Male,Medium,Truck,Single,Yes,High School,Fair,No
+26-35,Male,Low,Sedan,Divorced,Yes,Bachelor,Excellent,No
+36-45,Female,High,Convertible,Married,Yes,Bachelor,Good,Yes
+36-45,Male,Medium,Hatchback,Divorced,Yes,Bachelor,Good,No
+60+,Male,Low,Convertible,Married,No,High School,Fair,No
+60+,Female,Medium,Truck,Married,Yes,High School,Fair,Yes
+18-25,Female,High,Hatchback,Single,No,Bachelor,Excellent,No
+46-60,Female,Medium,Truck,Married,Yes,Master,Fair,Yes
+18-25,Male,Low,Convertible,Single,Yes,PhD,Fair,No
+60+,Male,Low,Truck,Married,Yes,PhD,Fair,No
+26-35,Female,Low,Hatchback,Married,No,Master,Poor,Yes
+60+,Female,Medium,Hatchback,Married,Yes,High School,Fair,Yes
+46-60,Female,Medium,Truck,Married,No,Master,Fair,No
+60+,Female,Low,Hatchback,Married,Yes,Bachelor,Excellent,No
+46-60,Female,Low,Hatchback,Single,Yes,Master,Good,No
+46-60,Female,Medium,Truck,Married,No,Bachelor,Fair,No
+46-60,Male,High,Convertible,Married,No,Master,Good,Yes
+46-60,Female,Medium,Hatchback,Married,Yes,Bachelor,Poor,No
+46-60,Male,High,Hatchback,Married,No,High School,Good,Yes
+26-35,Male,Medium,Hatchback,Single,No,Bachelor,Fair,No
+18-25,Female,Low,Hatchback,Single,No,High School,Poor,Yes
+36-45,Female,High,Truck,Divorced,No,PhD,Excellent,No
+18-25,Male,Medium,Convertible,Married,No,Bachelor,Poor,Yes
+46-60,Male,Medium,Convertible,Single,Yes,Bachelor,Excellent,No
+26-35,Male,High,Sedan,Married,No,PhD,Fair,No
+60+,Female,Low,Hatchback,Divorced,Yes,Bachelor,Poor,No
+26-35,Female,Low,Hatchback,Single,No,Bachelor,Good,No
+46-60,Male,Medium,Sedan,Married,Yes,High School,Good,Yes
+26-35,Male,Low,Convertible,Divorced,Yes,Bachelor,Fair,No
+26-35,Female,Low,SUV,Divorced,No,Master,Fair,Yes
+46-60,Male,Low,SUV,Divorced,Yes,Master,Poor,No
+26-35,Female,Low,Convertible,Married,Yes,PhD,Excellent,Yes
+36-45,Other,Medium,Hatchback,Single,No,High School,Fair,Yes
+36-45,Male,Low,SUV,Single,No,High School,Poor,Yes
+26-35,Female,Medium,Truck,Single,No,High School,Excellent,No
+60+,Male,Medium,Truck,Married,Yes,Master,Fair,No
+46-60,Male,Medium,Sedan,Single,No,High School,Fair,No
+36-45,Female,Low,Convertible,Single,Yes,High School,Fair,Yes
+60+,Male,Medium,Convertible,Single,Yes,Bachelor,Good,No
+26-35,Other,Low,SUV,Single,No,Bachelor,Poor,No
+60+,Female,Medium,Hatchback,Married,No,Master,Fair,No
+18-25,Male,High,Convertible,Single,Yes,Bachelor,Excellent,Yes
+36-45,Male,Medium,SUV,Married,Yes,Bachelor,Poor,No
+26-35,Male,Medium,SUV,Married,Yes,Bachelor,Fair,No
+46-60,Male,Medium,Convertible,Single,Yes,Master,Fair,Yes
+26-35,Male,Medium,SUV,Divorced,Yes,Bachelor,Good,No
+46-60,Male,High,Sedan,Married,No,Bachelor,Excellent,No
+26-35,Male,High,Sedan,Single,No,Bachelor,Fair,No
+60+,Female,Medium,Convertible,Single,No,High School,Poor,No
+60+,Female,Medium,Hatchback,Single,Yes,Master,Fair,No
+60+,Female,High,Sedan,Single,No,High School,Poor,No
+18-25,Male,High,Sedan,Single,Yes,PhD,Good,No
+46-60,Male,Medium,Convertible,Married,Yes,High School,Poor,No
+60+,Female,Medium,Truck,Married,Yes,Master,Fair,No
+18-25,Female,Low,SUV,Married,No,Master,Good,No
+46-60,Male,High,Sedan,Single,No,Bachelor,Fair,No
+26-35,Female,Low,Truck,Single,Yes,Bachelor,Good,No
+18-25,Female,Medium,Hatchback,Married,Yes,Bachelor,Poor,Yes
+36-45,Female,Low,Truck,Single,Yes,Bachelor,Excellent,No
+18-25,Male,Low,Convertible,Single,No,High School,Fair,No
+18-25,Female,Medium,Hatchback,Married,Yes,Bachelor,Excellent,No
+46-60,Female,High,Hatchback,Single,Yes,Master,Fair,No
+26-35,Female,Low,Truck,Married,No,High School,Good,Yes
+36-45,Female,Medium,Convertible,Single,Yes,Master,Fair,Yes
+60+,Female,Low,Sedan,Divorced,Yes,Bachelor,Good,No
+60+,Female,Low,Truck,Married,Yes,Bachelor,Fair,Yes
+18-25,Male,Medium,Sedan,Married,No,PhD,Good,No
+46-60,Female,Medium,Truck,Single,Yes,Bachelor,Good,Yes
+46-60,Female,Low,Sedan,Married,No,Bachelor,Good,No
+60+,Female,Medium,Truck,Married,No,Master,Good,No
+36-45,Male,Low,Hatchback,Married,Yes,PhD,Poor,No
+26-35,Male,Medium,SUV,Married,Yes,High School,Fair,Yes
+36-45,Female,High,Hatchback,Married,Yes,Bachelor,Good,No
+26-35,Female,High,Sedan,Single,Yes,Bachelor,Poor,Yes
+60+,Female,Medium,Convertible,Married,No,High School,Fair,Yes
+26-35,Female,Medium,Hatchback,Married,No,High School,Fair,No
+46-60,Female,High,SUV,Single,Yes,Bachelor,Fair,No
+18-25,Female,Low,Sedan,Single,Yes,Bachelor,Good,Yes
+18-25,Female,High,Hatchback,Married,Yes,Master,Good,No
+60+,Female,High,Truck,Married,Yes,Master,Excellent,Yes
+46-60,Female,Low,Convertible,Single,No,Bachelor,Fair,No
+36-45,Male,Low,Sedan,Single,Yes,High School,Excellent,Yes
+46-60,Male,High,Hatchback,Single,No,High School,Good,No
+18-25,Female,Medium,Sedan,Married,Yes,Bachelor,Excellent,Yes
+18-25,Male,Low,Truck,Single,No,Bachelor,Excellent,No
+46-60,Male,Low,SUV,Married,No,High School,Good,No
+46-60,Male,Medium,Hatchback,Single,Yes,Bachelor,Fair,No
+18-25,Male,Medium,Sedan,Married,Yes,PhD,Fair,Yes
+36-45,Male,Medium,Sedan,Divorced,Yes,Master,Fair,No
+60+,Male,High,Sedan,Single,Yes,Master,Excellent,No
+60+,Female,Low,SUV,Single,No,Bachelor,Excellent,No
+46-60,Female,Medium,Sedan,Married,No,High School,Good,No
+60+,Male,Medium,Convertible,Single,No,High School,Excellent,No
+18-25,Male,Medium,Convertible,Single,No,Master,Excellent,Yes
+18-25,Female,Low,Sedan,Married,Yes,Bachelor,Good,No
+46-60,Male,High,Convertible,Divorced,No,Bachelor,Good,Yes
+46-60,Female,High,Hatchback,Married,No,High School,Fair,No
+46-60,Female,Medium,Convertible,Single,Yes,Bachelor,Fair,Yes
+36-45,Female,Medium,Sedan,Single,Yes,High School,Poor,No
+60+,Male,Low,Truck,Single,Yes,High School,Fair,No
+46-60,Female,Medium,Hatchback,Married,Yes,Bachelor,Good,No
+26-35,Male,Medium,SUV,Married,Yes,Bachelor,Fair,No
+26-35,Female,Medium,Sedan,Married,No,High School,Excellent,No
+18-25,Female,High,SUV,Single,No,High School,Fair,No
+60+,Male,Medium,Truck,Married,Yes,Master,Poor,No
+46-60,Male,Medium,SUV,Single,Yes,Bachelor,Excellent,Yes
+26-35,Male,Medium,Sedan,Single,No,Bachelor,Good,No
+60+,Female,Low,Sedan,Married,No,Bachelor,Fair,Yes
+18-25,Male,Medium,Truck,Single,Yes,PhD,Good,Yes
+36-45,Female,Medium,Sedan,Married,No,High School,Fair,No
+60+,Male,Medium,Truck,Married,No,High School,Excellent,No
+60+,Female,Medium,Truck,Divorced,No,Bachelor,Good,No
+36-45,Female,Medium,Sedan,Married,Yes,High School,Poor,No
+60+,Female,Medium,Convertible,Married,Yes,Bachelor,Good,No
+18-25,Female,Medium,Truck,Married,No,Bachelor,Excellent,Yes
+18-25,Male,Medium,Sedan,Single,Yes,PhD,Good,No
+36-45,Male,High,Convertible,Married,No,Master,Excellent,Yes
+46-60,Female,Low,Truck,Married,Yes,PhD,Fair,No
+26-35,Male,Low,Convertible,Married,Yes,High School,Excellent,No
+46-60,Male,Medium,Hatchback,Married,Yes,Master,Good,No
+60+,Male,Low,Hatchback,Single,Yes,High School,Good,No
+26-35,Male,Low,Convertible,Single,No,Bachelor,Fair,No
+36-45,Male,Medium,Truck,Single,Yes,Master,Excellent,No
+36-45,Female,Medium,Sedan,Married,No,High School,Good,Yes
+26-35,Male,Medium,SUV,Married,No,Bachelor,Excellent,Yes
+18-25,Female,High,Sedan,Married,Yes,High School,Fair,No
+26-35,Male,Medium,SUV,Single,No,High School,Poor,No
+60+,Female,High,SUV,Single,Yes,PhD,Fair,No
+18-25,Male,Low,Truck,Married,No,High School,Fair,No
+36-45,Female,Medium,Convertible,Married,No,High School,Good,No
+26-35,Female,High,Sedan,Married,Yes,Bachelor,Good,No
+46-60,Male,Medium,Convertible,Married,Yes,Master,Good,No
+46-60,Female,Medium,Hatchback,Single,No,High School,Excellent,No
+60+,Other,Medium,Truck,Married,No,Bachelor,Poor,No
+46-60,Female,Low,Truck,Married,Yes,Master,Fair,No
+26-35,Female,Medium,Hatchback,Married,No,High School,Excellent,No
+26-35,Male,Medium,Sedan,Married,Yes,Bachelor,Good,No
+46-60,Female,High,Hatchback,Married,No,Master,Good,No
+26-35,Male,Low,Sedan,Married,Yes,Bachelor,Fair,Yes
+60+,Male,High,SUV,Married,No,Master,Good,Yes
+18-25,Other,High,Truck,Married,Yes,High School,Poor,No
+60+,Male,Low,Sedan,Married,No,PhD,Good,No
+60+,Female,Medium,Convertible,Single,No,PhD,Excellent,Yes
+26-35,Female,High,Convertible,Divorced,No,High School,Good,Yes
+18-25,Female,High,Truck,Married,No,High School,Poor,No
+26-35,Other,Medium,Hatchback,Single,Yes,PhD,Good,Yes
+36-45,Male,Medium,Hatchback,Married,No,Bachelor,Fair,No
+26-35,Male,Medium,Sedan,Single,No,Bachelor,Poor,No
+26-35,Male,Medium,Hatchback,Single,No,Bachelor,Excellent,Yes
+26-35,Male,Low,Truck,Single,Yes,Master,Poor,No
+18-25,Male,Medium,Sedan,Married,Yes,Master,Excellent,No
+26-35,Male,Low,SUV,Married,Yes,High School,Fair,Yes
+18-25,Female,Low,Hatchback,Married,Yes,High School,Good,No
+46-60,Female,Medium,Hatchback,Married,Yes,Master,Good,Yes
+36-45,Male,Medium,Sedan,Married,No,Master,Fair,No
+18-25,Female,Medium,Convertible,Single,No,Bachelor,Good,Yes
+46-60,Male,Medium,Hatchback,Single,No,PhD,Excellent,Yes
+18-25,Male,Medium,Truck,Married,Yes,Master,Good,No
+18-25,Female,Low,Hatchback,Divorced,Yes,High School,Good,No
+36-45,Female,Medium,SUV,Married,No,Master,Excellent,Yes
+60+,Female,High,Hatchback,Married,Yes,Bachelor,Fair,No
+60+,Male,Medium,Convertible,Divorced,Yes,High School,Poor,No
+18-25,Female,Medium,Hatchback,Single,No,Bachelor,Poor,No
+26-35,Female,Medium,Sedan,Married,Yes,Master,Good,No
+46-60,Female,High,Hatchback,Married,Yes,PhD,Excellent,No
+26-35,Female,Low,Convertible,Married,No,High School,Good,No
+26-35,Female,Medium,Sedan,Single,Yes,High School,Excellent,No
+18-25,Female,Medium,Truck,Married,No,Bachelor,Good,No
+18-25,Female,Medium,Sedan,Married,Yes,Master,Fair,Yes
+18-25,Other,Low,SUV,Single,No,Master,Poor,Yes
+18-25,Female,Medium,Sedan,Married,Yes,Bachelor,Excellent,No
+60+,Male,Low,Truck,Single,No,Bachelor,Poor,Yes
+18-25,Female,Medium,Hatchback,Married,Yes,High School,Good,Yes
+60+,Male,Medium,Sedan,Married,No,Bachelor,Fair,No
+60+,Male,Low,Sedan,Married,Yes,High School,Fair,No
+18-25,Female,High,Sedan,Single,Yes,Master,Good,No
+36-45,Female,Low,Sedan,Single,No,High School,Fair,No
+46-60,Female,High,Truck,Single,Yes,Bachelor,Excellent,Yes
+26-35,Male,Medium,Convertible,Single,Yes,High School,Fair,No
+60+,Female,Low,Convertible,Single,Yes,Bachelor,Good,No
+46-60,Male,Low,Sedan,Married,Yes,High School,Good,Yes
+36-45,Other,High,Truck,Single,Yes,Bachelor,Good,No
+26-35,Other,Low,Truck,Married,Yes,High School,Excellent,No
+26-35,Female,Low,Sedan,Single,Yes,Master,Fair,No
+60+,Female,Medium,SUV,Married,No,Bachelor,Poor,Yes
+18-25,Female,Medium,Sedan,Married,Yes,Master,Poor,No
+36-45,Female,Medium,SUV,Married,Yes,Bachelor,Excellent,No
+60+,Male,Low,Sedan,Divorced,No,Bachelor,Excellent,No
+36-45,Male,Low,SUV,Single,No,Bachelor,Fair,No
+18-25,Female,Low,SUV,Married,Yes,PhD,Good,No
+18-25,Female,Low,Sedan,Married,Yes,Bachelor,Poor,No
+60+,Male,Medium,SUV,Married,No,High School,Poor,No
+18-25,Female,Medium,Hatchback,Married,Yes,PhD,Good,No
+46-60,Male,Low,Convertible,Married,Yes,High School,Poor,No
+26-35,Female,Medium,Truck,Married,Yes,Master,Fair,No
+60+,Female,Medium,SUV,Married,No,High School,Good,Yes
+36-45,Female,High,SUV,Divorced,Yes,Bachelor,Good,Yes
+46-60,Female,High,Truck,Divorced,No,High School,Fair,No
+60+,Male,High,SUV,Single,No,PhD,Good,Yes
+18-25,Male,Low,Truck,Single,Yes,Bachelor,Good,No
+18-25,Female,Low,Sedan,Married,No,Bachelor,Poor,No
+18-25,Female,Medium,Hatchback,Divorced,Yes,High School,Good,Yes
+18-25,Male,Low,Hatchback,Single,No,Bachelor,Poor,No
+36-45,Female,Medium,Convertible,Single,Yes,Master,Poor,No
+46-60,Male,Medium,SUV,Divorced,Yes,Bachelor,Fair,No
+26-35,Female,High,Convertible,Married,Yes,High School,Excellent,Yes
+36-45,Female,High,Sedan,Single,Yes,Bachelor,Poor,No
+36-45,Male,Medium,Hatchback,Married,Yes,Bachelor,Poor,Yes
+26-35,Male,Medium,Sedan,Divorced,Yes,High School,Poor,No
+26-35,Female,Medium,Sedan,Married,Yes,High School,Fair,No
+18-25,Female,Low,SUV,Married,No,Master,Good,Yes
+36-45,Female,Medium,Sedan,Married,Yes,PhD,Poor,No
+60+,Female,Low,Hatchback,Single,No,High School,Excellent,No
+26-35,Female,Medium,Convertible,Married,Yes,Master,Good,No
+26-35,Other,Medium,Hatchback,Single,Yes,High School,Good,Yes
+46-60,Female,Medium,SUV,Divorced,Yes,Bachelor,Fair,Yes
+60+,Female,Medium,Hatchback,Single,Yes,Bachelor,Fair,No
+60+,Male,Medium,Truck,Married,No,High School,Fair,No
+26-35,Male,High,Convertible,Single,Yes,Bachelor,Good,Yes
+18-25,Female,Low,Truck,Married,No,Master,Poor,Yes
+46-60,Male,Medium,Truck,Single,No,PhD,Good,No
+60+,Female,Medium,SUV,Married,Yes,High School,Fair,No
+26-35,Female,Medium,Sedan,Married,No,High School,Fair,No
+60+,Female,High,Truck,Married,Yes,PhD,Fair,No
+46-60,Male,Low,Hatchback,Married,Yes,High School,Poor,No
+46-60,Male,Medium,Sedan,Single,No,Bachelor,Excellent,Yes
+36-45,Male,Medium,Hatchback,Divorced,Yes,High School,Poor,Yes
+26-35,Male,High,Hatchback,Married,Yes,Bachelor,Excellent,Yes
+46-60,Male,Low,Sedan,Married,Yes,High School,Good,No
+36-45,Female,Medium,Sedan,Married,Yes,Master,Excellent,No
+36-45,Female,Medium,Hatchback,Married,Yes,Master,Fair,No
+60+,Female,Low,SUV,Married,Yes,High School,Excellent,Yes
+60+,Female,Medium,Convertible,Married,Yes,Master,Fair,Yes
+36-45,Male,Medium,Convertible,Married,Yes,Bachelor,Good,No
+60+,Female,Medium,SUV,Married,No,High School,Poor,Yes
+46-60,Female,High,Sedan,Married,Yes,Master,Fair,No
+18-25,Male,Medium,Hatchback,Single,No,Bachelor,Good,Yes
+46-60,Female,Medium,Convertible,Single,No,High School,Good,Yes
+36-45,Male,Medium,Hatchback,Single,No,High School,Fair,Yes
+36-45,Female,Low,SUV,Single,No,PhD,Poor,No
+46-60,Other,Low,Hatchback,Married,Yes,Master,Good,No
+60+,Male,Medium,SUV,Married,Yes,Master,Fair,No
+60+,Female,Medium,Sedan,Single,Yes,High School,Poor,No
+36-45,Female,Low,SUV,Married,No,Master,Excellent,Yes
+26-35,Other,Medium,SUV,Divorced,No,High School,Excellent,No
+60+,Male,Medium,Convertible,Married,Yes,PhD,Excellent,No
+46-60,Female,Low,Hatchback,Married,Yes,High School,Excellent,No
+60+,Male,Medium,Convertible,Married,No,Bachelor,Poor,No
+46-60,Male,Low,Truck,Married,Yes,Bachelor,Excellent,Yes
+36-45,Male,High,SUV,Single,Yes,Master,Fair,Yes
+60+,Other,High,Truck,Single,Yes,Master,Poor,No
+46-60,Female,Medium,Convertible,Single,No,Bachelor,Excellent,No
+36-45,Female,Low,Hatchback,Single,Yes,Bachelor,Fair,No
+26-35,Female,Medium,Convertible,Divorced,Yes,Master,Good,No
+46-60,Male,High,Hatchback,Married,No,High School,Poor,No
+26-35,Male,Medium,Hatchback,Married,Yes,Master,Fair,No
+26-35,Male,Low,Sedan,Married,No,PhD,Good,Yes
+18-25,Male,Medium,SUV,Single,Yes,High School,Fair,No
+60+,Male,High,Convertible,Married,Yes,High School,Poor,No
+46-60,Male,Medium,Hatchback,Married,No,Bachelor,Fair,No
+26-35,Male,Medium,Convertible,Single,No,High School,Fair,No
+18-25,Male,Medium,Convertible,Single,Yes,Bachelor,Fair,No
+36-45,Male,Medium,Hatchback,Married,Yes,Master,Excellent,No
+46-60,Male,Low,Truck,Married,No,Bachelor,Fair,No
+26-35,Other,Medium,SUV,Married,Yes,High School,Excellent,No
+60+,Female,Low,SUV,Married,No,Bachelor,Poor,No
+18-25,Other,Medium,Sedan,Married,No,Bachelor,Fair,No
+26-35,Male,Low,Sedan,Single,Yes,PhD,Poor,Yes
+60+,Male,Medium,Sedan,Single,No,High School,Fair,No
+26-35,Female,Low,SUV,Married,Yes,Bachelor,Poor,Yes
+46-60,Male,Medium,Truck,Married,No,PhD,Fair,No
+46-60,Male,Medium,SUV,Divorced,Yes,Bachelor,Fair,No
+46-60,Male,Low,SUV,Married,No,Bachelor,Fair,No
+18-25,Male,Low,SUV,Married,No,High School,Good,Yes
+46-60,Male,Low,SUV,Married,No,Master,Excellent,No
+60+,Male,High,Truck,Married,No,Bachelor,Fair,No
+26-35,Female,Medium,Sedan,Divorced,Yes,PhD,Good,No
+36-45,Male,Medium,Convertible,Single,Yes,Master,Good,No
+60+,Male,Low,Sedan,Married,No,Bachelor,Fair,No
+60+,Female,Medium,Sedan,Married,No,Bachelor,Excellent,Yes
+46-60,Male,High,Convertible,Married,No,High School,Excellent,Yes
+18-25,Male,High,SUV,Single,No,High School,Fair,Yes
+26-35,Female,Medium,Truck,Married,Yes,Master,Good,No
+18-25,Male,Low,Truck,Married,Yes,Bachelor,Good,No
+26-35,Male,Low,Sedan,Married,Yes,Bachelor,Fair,No
+26-35,Female,Low,Convertible,Married,No,Master,Fair,No
+18-25,Male,Low,Hatchback,Single,Yes,High School,Excellent,No
+60+,Female,Low,SUV,Divorced,No,Bachelor,Good,Yes
+26-35,Female,Low,Sedan,Married,Yes,Bachelor,Poor,No
+18-25,Male,Medium,Truck,Married,Yes,Bachelor,Poor,Yes
+26-35,Female,High,Convertible,Single,Yes,PhD,Excellent,Yes
+36-45,Female,Medium,Convertible,Single,Yes,Bachelor,Poor,No
+60+,Male,High,Sedan,Married,No,Bachelor,Good,Yes
+46-60,Female,Medium,Hatchback,Married,Yes,Bachelor,Fair,Yes
+26-35,Male,Low,Truck,Married,Yes,High School,Poor,Yes
+36-45,Female,Medium,Sedan,Single,Yes,Bachelor,Poor,Yes
+46-60,Male,Low,Hatchback,Married,No,Bachelor,Fair,No
+46-60,Male,Medium,Convertible,Married,No,PhD,Poor,Yes
+26-35,Male,Medium,SUV,Single,Yes,Master,Good,No
+18-25,Female,High,Truck,Married,No,Bachelor,Good,No
+26-35,Male,Low,Truck,Married,Yes,Bachelor,Fair,No
+36-45,Male,Low,Hatchback,Married,Yes,High School,Good,No
+46-60,Male,High,Sedan,Single,No,High School,Fair,No
+26-35,Female,Low,Convertible,Married,Yes,Bachelor,Fair,Yes
+18-25,Female,Medium,Hatchback,Single,No,Bachelor,Fair,No
+26-35,Female,Medium,SUV,Single,Yes,High School,Fair,No
+60+,Female,High,SUV,Single,No,Bachelor,Excellent,Yes
+18-25,Female,High,SUV,Married,Yes,Master,Good,Yes
+36-45,Male,High,Hatchback,Single,No,High School,Fair,Yes
+46-60,Female,Low,Convertible,Divorced,No,Master,Good,No
+26-35,Female,High,Truck,Single,Yes,High School,Fair,No
+18-25,Other,Medium,Sedan,Single,Yes,Bachelor,Poor,Yes
+60+,Female,Medium,Truck,Married,Yes,Master,Fair,No
+18-25,Male,Low,Convertible,Single,No,Bachelor,Good,Yes
+60+,Male,Medium,Truck,Married,Yes,PhD,Fair,No
+36-45,Female,High,Hatchback,Single,Yes,High School,Excellent,No
